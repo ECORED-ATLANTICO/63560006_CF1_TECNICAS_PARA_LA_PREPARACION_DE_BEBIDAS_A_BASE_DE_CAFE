@@ -1,1 +1,1 @@
-module.exports = 'Titulo del componente formativo'
+module.exports = 'Fundamentos y métodos de preparación del café'
