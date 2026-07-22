@@ -59,17 +59,29 @@ figcaption, table caption
     text-align: left !important
 
 // BACKGROUNDS color
-.bg-azul
-  background-color: #EBF7FF
+.bg-primario-p10
+  background-color: $color-primario-p10
 .bg-terciario-t5
   background-color: $color-terciario-t5
 .bg-terciario-t10
   background-color: $color-terciario-t10
+.bg-contenido-a5
+  background-color: $color-acento-contenido-a5
 .bg-contenido-a10
   background-color: $color-acento-contenido-a10
 .bg-gris
   background-color: $color-gris
+.bg-gris-sistema
+  background-color: $color-sistema-h
 
+
+// WIDTH
+.w-145
+  max-width: 145px
+  width: 100%
+  margin: 0 auto
+  @media (min-width: 992px)
+    margin-left: 0
 //GENERALES
 
 .banner-text
@@ -78,6 +90,14 @@ figcaption, table caption
   padding: 20px 30px
   margin-top: -60px
 
+    margin: 0 auto
+  .w-200
+    width: 200px
+    max-width: 200px
+    margin: 0 auto
+  .w-220
+    width: 220px
+    max-width: 220px
   @media (min-width: 992px)
     margin-top: -80px
 
@@ -138,7 +158,6 @@ figcaption, table caption
   background-position: center
   background-repeat: no-repeat
   border-radius: 20px
-
 
 .acordion
   &__accion__btn--a
@@ -210,3 +229,42 @@ ul.checklist
       left: -15px
       top: -2px
       content: url('../assets/curso/common/green-disc.svg')
+
+.tarjeta-avatar-b__img
+  img
+    position: absolute
+    top: 0
+    left: -15px
+    min-width: 90px !important
+
+.slyder-f
+  align-items: center
+  border-radius: 20px
+
+  &__slyde
+    h4
+      background-color: $color-secundario
+      width: fit-content
+      padding: 4px 20px
+      margin-left: auto
+      margin-right: auto
+  
+  &__main
+    width: 70%
+
+    @media (min-width: 769px)
+      width: 80%
+
+  &__btn
+    height: 35px
+    width: 35px
+    max-width: 35px
+    background-color: $color-acento-botones
+    border-radius: 50%
+    padding: 0 !important
+    margin: 0 auto
+    color: $white
+    .fa-chevron-left
+      font-size: 20px
+    .fa-chevron-right
+      font-size: 20px
