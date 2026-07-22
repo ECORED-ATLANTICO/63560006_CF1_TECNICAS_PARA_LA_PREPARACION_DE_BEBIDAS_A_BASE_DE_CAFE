@@ -105,6 +105,10 @@ figcaption, table caption
     color: $white
   .slyder-a__bullets__item
     background-color: $color-acento-botones
+  &__bullets__item
+    margin: 0 4px
+    @media (min-width: $bp-min-sm)
+      margin: 0 10px
 
 //CLASES TITULOS//
 .titulo-con-imagen
@@ -278,3 +282,5 @@ ul.checklist
   &.linea-tiempo-d__item--selected
     .linea-tiempo-d__item__content
       background-color: $color-acento-contenido-a10
+
+slyder-a__bullets__item
