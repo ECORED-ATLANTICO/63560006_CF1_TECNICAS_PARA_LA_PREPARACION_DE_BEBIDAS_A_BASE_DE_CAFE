@@ -104,7 +104,7 @@
     .row.justify-content-center
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 10.
+          h5 Tabla 11.
           span Errores frecuentes y corrección
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table

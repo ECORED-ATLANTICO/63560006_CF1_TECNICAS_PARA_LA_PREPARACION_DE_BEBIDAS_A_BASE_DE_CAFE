@@ -49,7 +49,7 @@
     .row.justify-content-center
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 8.
+          h5 Tabla 9.
           span Diagnóstico de errores en espresso
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
@@ -190,7 +190,7 @@
     .row.justify-content-center
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 9.
+          h5 Tabla 10.
           span Resumen de parámetros por método
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
