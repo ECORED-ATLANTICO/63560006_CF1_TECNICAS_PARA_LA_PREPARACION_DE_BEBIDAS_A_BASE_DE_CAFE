@@ -201,3 +201,12 @@ figcaption, table caption
 .boton.barra-avance__boton--regresar
   span
     color: $white !important
+
+ul.checklist
+  li
+    position: relative
+    &::before
+      position: absolute
+      left: -15px
+      top: -2px
+      content: url('../assets/curso/common/green-disc.svg')

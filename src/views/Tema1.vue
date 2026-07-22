@@ -313,37 +313,6 @@
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema1/24.png", alt="")
       
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
