@@ -95,7 +95,7 @@
         h3.titulo-con-imagen__texto Contaminantes comunes y métodos de tratamiento
 
     .p-4.bg-primario-p10.rounded-4.mb-4.mb-lg-5
-      p.mb-0.text-center Los contaminantes del agua pueden afectar la extracción del café, ya que pueden enmascarar los sabores naturales o producir sabores indeseables. Los métodos de tratamiento más comunes son la filtración, la ozonización, la desinfección y la remoción de sedimentos.
+      p.mb-0.text-center El agua de red puede contener contaminantes que afectan negativamente el sabor del café y la operación de los equipos: 
 
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
@@ -104,7 +104,7 @@
             img(src='@/assets/curso/tema2/4.svg' alt='')
           .tarjeta.bg-terciario-t5
             .p-4
-              h4 Cloro y cloraminas
+              h5 Cloro y cloraminas
               p.mb-0 Añadidos para desinfección, generan sabores a "medicina" y pueden reaccionar con compuestos del café produciendo clorofenoles.
       .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
         .tarjeta-avatar-b.h-100
@@ -112,7 +112,7 @@
             img(src='@/assets/curso/tema2/5.svg' alt='')          
           .tarjeta.bg-terciario-t5
             .p-4
-              h4 Sedimentos (arena, óxido, arcilla)
+              h5 Sedimentos (arena, óxido, arcilla)
               p.mb-0 Obstruyen válvulas y calderas, reducen la vida útil de las máquinas.
       .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
         .tarjeta-avatar-b.h-100
@@ -120,7 +120,7 @@
             img(src='@/assets/curso/tema2/6.svg' alt='')          
           .tarjeta.bg-terciario-t5
             .p-4
-              h4 Metales pesados (hierro, manganeso, cobre)
+              h5 Metales pesados (hierro, manganeso, cobre)
               p.mb-0 Producen sabores metálicos y manchas.
       .col-sm-8.col-lg-5.col-xl-3
         .tarjeta-avatar-b.h-100
@@ -128,7 +128,7 @@
             img(src='@/assets/curso/tema2/7.svg' alt='')          
           .tarjeta.bg-terciario-t5
             .p-4
-              h4 Microorganismos (bacterias, hongos)
+              h5 Microorganismos (bacterias, hongos)
               p.mb-0 Riesgo para la salud y formación de biopelículas en tuberías.
 
     .row.justify-content-center
@@ -223,7 +223,7 @@
       p.mb-0 La proporción entre la masa de café molido y la masa de agua es la variable que controla la concentración de la bebida. La regla general es utilizar una relación de 1:16 a 1:18 (café:agua) para métodos filtrados, y de 1:2 a 1:2,5 para espresso. Estas relaciones se expresan en peso (gramos).
 
     .row.justify-content-center
-      .col-xl-10
+      .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 5.
           span Proporciones recomendadas por método.

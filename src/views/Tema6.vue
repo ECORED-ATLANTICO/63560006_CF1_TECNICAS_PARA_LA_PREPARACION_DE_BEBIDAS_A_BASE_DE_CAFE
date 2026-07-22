@@ -9,7 +9,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema6/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm
+        div.banner-text.shadow-sm.banner-text--yellow
           p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (#[em capuchino, latte, flat white]), sino que también permite la creación de arte latte, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -36,7 +36,7 @@
               p.mb-0 Emulsión de la grasa: La grasa ayuda a dar cuerpo y brillo a la espuma.
 
     .p-4.bg-contenido-a5.rounded-4.mb-4.mb-lg-5
-      p.mb-0 La leche entera (3-4 % grasa) produce la micro espuma más estable y sedosa. La leche descremada produce burbujas grandes y espuma poco duradera. Las leches vegetales requieren emulsionantes añadidos y temperaturas más bajas.
+      p.mb-0.text-center La leche entera (3-4 % grasa) produce la micro espuma más estable y sedosa. La leche descremada produce burbujas grandes y espuma poco duradera. Las leches vegetales requieren emulsionantes añadidos y temperaturas más bajas.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

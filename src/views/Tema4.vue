@@ -228,16 +228,6 @@
           div(numero="5" titulo="Enjuague final")
             p.mb-0 Retirar el portafiltro, enjuagar y realizar 3 ciclos de backflush solo con agua para eliminar residuos de detergente.
 
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>

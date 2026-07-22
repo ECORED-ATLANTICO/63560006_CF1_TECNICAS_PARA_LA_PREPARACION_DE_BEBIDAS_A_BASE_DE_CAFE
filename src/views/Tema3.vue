@@ -121,7 +121,7 @@
             p.mb-0 Al generar mucho polvo, la superficie de contacto con el oxígeno aumenta drásticamente, haciendo que el café pierda su frescura en cuestión de minutos.
 
 
-    .bg-terciario-t5.p-4.rounded-4.mb-4.mb-lg-5
+    .bg-terciario-t20.p-4.rounded-4.mb-4.mb-lg-5
       p.mb-0 Aunque son económicos (desde 30.000 COP hasta 150.000 COP), no son aptos para ningún método de preparación que busque calidad. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -175,7 +175,7 @@
 
     .row.justify-content-center
       .col-xl-10
-        .tarjeta.bg-terciario-t10.p-4.mb-5
+        .tarjeta.bg-terciario-t20.p-4.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1.d-none.d-sm-block.p-0
               img.w-72(src="@/assets/curso/tema3/12.svg")
@@ -226,7 +226,7 @@
 
     .row.justify-content-center
       .col-xl-10
-        .tarjeta.bg-terciario-t10.p-4.mb-4
+        .tarjeta.bg-terciario-t20.p-4.mb-4
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1.d-none.d-sm-block.p-0
               img.w-72(src="@/assets/curso/tema3/12.svg")

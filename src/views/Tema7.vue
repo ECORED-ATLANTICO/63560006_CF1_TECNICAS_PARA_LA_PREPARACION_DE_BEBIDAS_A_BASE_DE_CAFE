@@ -10,7 +10,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema7/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm
+        div.banner-text.shadow-sm.banner-text--yellow
           p.mb-0 Un grano de café tostado es un producto perecedero. Los compuestos que le dan sabor y aroma son volátiles y se degradan rápidamente en contacto con oxígeno, luz, calor y humedad. El barista no solo debe saber preparar café, sino también almacenarlo correctamente para preservar su frescura. Este capítulo describe los factores de deterioro, los mejores métodos de almacenamiento según las investigaciones de Cenicafé y la importancia de conocer la trazabilidad y la fecha de tostión.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -21,14 +21,14 @@
     p.mb-4 Cuatro enemigos principales atacan al café tostado:
 
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema7/2.png' alt='')
           .tarjeta.bg-terciario-t5
             .p-4
               p.mb-0 Oxígeno: provoca oxidación de los aceites, generando sabores rancios y apagados. 
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema7/3.png' alt='')          
@@ -68,14 +68,14 @@
     p.mb-4 Recomendaciones prácticas:
 
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema7/7.png' alt='')
           .tarjeta.bg-contenido-a5
             .p-4
               p.mb-0 Comprar café en cantidades para 2-3 semanas.
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema7/8.png' alt='')          
@@ -98,7 +98,7 @@
               p.mb-0 Mantener alejado de fuentes de calor (estufa, horno) y de olores fuertes (especias, café molido viejo).
 
     .bg-terciario-t5.rounded-4.mb-4.mb-lg-5.p-4
-      p.mb-0 Para el café molido: siempre moler justo antes de preparar. El café molido pierde aromas en menos de 30 minutos. Si es indispensable almacenar café molido, usar un recipiente hermético y consumir en el día.
+      p.mb-0.text-center Para el café molido: siempre moler justo antes de preparar. El café molido pierde aromas en menos de 30 minutos. Si es indispensable almacenar café molido, usar un recipiente hermético y consumir en el día.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

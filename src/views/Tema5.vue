@@ -133,7 +133,7 @@
                 span.text-bold 4. 
                 | Colocar el émbolo sin presionar, tapar y dejar reposar 4 minutos.
               li.mb-0 
-                span.text-bold 4. 
+                span.text-bold 5. 
                 | Presionar el émbolo lentamente y servir inmediatamente.
 
           div(titulo="Aeropress: versatilidad y control de variables")
@@ -202,7 +202,7 @@
                 th Relación (café:agua)
                 th Temperatura
                 th Tiempo
-                th Perfil sensorial
+                th(colspan="2") Perfil sensorial
             tbody
               tr(style="background-color: #F0F4EE")
                 td Espresso
@@ -210,49 +210,49 @@
                 td 1:2 - 1:2,5
                 td 92-96 °C
                 td 20-30 s
-                td Concentrado, crema densa
-              tr(style="background-color: #F0F4EE")
+                td(colspan="2") Concentrado, crema densa
+              tr
                 td V60
                 td Media-fina
                 td 1:15 - 1:17
                 td 93-96 °C
                 td 2,5-3,5 min
-                td Limpio, acidez brillante
+                td(colspan="2") Limpio, acidez brillante
               tr(style="background-color: #F0F4EE")
                 td Chemex
                 td Media
                 td 1:15 - 1:17
                 td 93-96 °C
                 td 3-5 min
-                td Muy limpio, sin aceites
-              tr(style="background-color: #F0F4EE")
+                td(colspan="2") Muy limpio, sin aceites
+              tr
                 td Prensa francesa
                 td Gruesa
                 td 1:15 - 1:17
                 td 93-95 °C
                 td 4-5 min
-                td Cuerpo completo, aceites
+                td(colspan="2") Cuerpo completo, aceites
               tr(style="background-color: #F0F4EE")
                 td Aeropress
                 td Media-fina
                 td 1:12 - 1:16
                 td 85-95 °C
                 td 1-2 min
-                td Variable, limpio
-              tr(style="background-color: #F0F4EE")
+                td(colspan="2") Variable, limpio
+              tr
                 td Sifón
                 td Media
                 td 1:12 - 1:15
                 td 90-95 °C
                 td 4-6 min
-                td Limpio, complejo
+                td(colspan="2") Limpio, complejo
               tr(style="background-color: #F0F4EE")
                 td Moka
                 td Media-fina
                 td 1:7 - 1:9
                 td (vapor)
                 td 3-5 min
-                td Concentrado, similar a espresso
+                td(colspan="2") Concentrado, similar a espresso
     
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
         .col-lg-9
