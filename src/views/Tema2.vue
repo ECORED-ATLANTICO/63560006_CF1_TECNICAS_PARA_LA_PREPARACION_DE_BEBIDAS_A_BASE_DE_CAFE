@@ -265,37 +265,6 @@
           figure
             img.w-145(src="@/assets/curso/tema2/14.png", alt="")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
