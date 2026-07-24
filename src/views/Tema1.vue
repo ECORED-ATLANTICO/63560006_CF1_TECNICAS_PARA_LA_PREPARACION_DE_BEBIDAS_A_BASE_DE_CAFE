@@ -54,13 +54,14 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/4.png", alt="")
 
-    .titulo-sexto.color-acento-contenido.mb-4
-      h5 Figura 1.
-      span Estructura de la semilla de café
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 1.
+          span Estructura de la semilla de café
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="La estructura de la semilla se compone de cinco partes: 1.La semilla. 2.El mucilago. 3.Pergamino. 4.La piel (película) de plata. 5. Cáscara y pulpa.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="La estructura de la semilla se compone de cinco partes: 1.La semilla. 2.El mucilago. 3.Pergamino. 4.La piel (película) de plata. 5. Cáscara y pulpa.")
+        figcaption Nota. SENA, (2026).
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

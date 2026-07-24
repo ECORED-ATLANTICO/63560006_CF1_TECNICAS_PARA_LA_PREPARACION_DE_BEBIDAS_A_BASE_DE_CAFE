@@ -98,7 +98,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/3.png", alt="alt")
-          .crd_hover_txt--body.px-0
+          .crd_hover_txt--body.px-0.crd_hover_txt--body--custom
             h4.mb-3 Molienda extremadamente heterogénea
             p.mb-0.px-4 La cuchilla no produce partículas de tamaño controlado; se obtiene una mezcla de polvo fino (finos) y fragmentos grandes (gruesos) que extraerán de manera desigual.
     
