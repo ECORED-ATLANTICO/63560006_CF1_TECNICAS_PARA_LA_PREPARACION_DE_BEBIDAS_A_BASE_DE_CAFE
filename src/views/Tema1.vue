@@ -53,7 +53,10 @@
       .col-sm-8.col-lg-4.d-none.d-lg-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/4.png", alt="")
-          
+
+    .titulo-sexto.color-acento-contenido.mb-4
+      h5 Figura 1.
+      span Estructura de la semilla de café
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-xl-10
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="La estructura de la semilla se compone de cinco partes: 1.La semilla. 2.El mucilago. 3.Pergamino. 4.La piel (película) de plata. 5. Cáscara y pulpa.")
@@ -154,11 +157,11 @@
       .col-lg-9
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg-contenido-a10")
           div(titulo="Beneficio lavado")
-            p.mb-0 Es el método tradicionalmente empleado en Colombia. Consiste en despulpar la cereza mecánicamente para eliminar la cáscara y luego fermentar el mucílago remanente en tanques, seguido de un lavado con agua limpia. Finalmente, el café pergamino se seca al sol o mecánicamente. Este método resalta la acidez y la limpieza de la taza, produciendo cafés suaves y aromáticos.
+            p.mb-0.ps-lg-5 Es el método tradicionalmente empleado en Colombia. Consiste en despulpar la cereza mecánicamente para eliminar la cáscara y luego fermentar el mucílago remanente en tanques, seguido de un lavado con agua limpia. Finalmente, el café pergamino se seca al sol o mecánicamente. Este método resalta la acidez y la limpieza de la taza, produciendo cafés suaves y aromáticos.
           div(titulo="Beneficio natural")
-            p.mb-0 Las cerezas completas se extienden al sol sobre patios o camas africanas, sin quitarles la pulpa, hasta alcanzar la humedad deseada. Produce cafés con cuerpo más pesado y notas frutales intensas.
+            p.mb-0.ps-lg-5 Las cerezas completas se extienden al sol sobre patios o camas africanas, sin quitarles la pulpa, hasta alcanzar la humedad deseada. Produce cafés con cuerpo más pesado y notas frutales intensas.
           div(titulo="Beneficio honey o miel")
-            p.mb-0 Se despulpa la cereza, pero se conserva parte del mucílago durante el secado. A medida que el grano se seca, adquiere tonalidades que van del amarillo al rojo y al negro, según la cantidad de mucílago dejada. Este método ofrece un equilibrio entre la acidez de un lavado y el dulzor y cuerpo de un natural.
+            p.mb-0.ps-lg-5 Se despulpa la cereza, pero se conserva parte del mucílago durante el secado. A medida que el grano se seca, adquiere tonalidades que van del amarillo al rojo y al negro, según la cantidad de mucílago dejada. Este método ofrece un equilibrio entre la acidez de un lavado y el dulzor y cuerpo de un natural.
 
     .row.justify-content-center
       .col-xl-10
@@ -206,7 +209,7 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/18.png", alt="")
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-5
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img

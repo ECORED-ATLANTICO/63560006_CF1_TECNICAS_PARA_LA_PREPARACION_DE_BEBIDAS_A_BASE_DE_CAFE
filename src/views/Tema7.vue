@@ -10,7 +10,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema7/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm.banner-text--yellow
+        div.banner-text.shadow-sm.banner-text--yellow.mb-4
           p.mb-0 Un grano de café tostado es un producto perecedero. Los compuestos que le dan sabor y aroma son volátiles y se degradan rápidamente en contacto con oxígeno, luz, calor y humedad. El barista no solo debe saber preparar café, sino también almacenarlo correctamente para preservar su frescura. Este capítulo describe los factores de deterioro, los mejores métodos de almacenamiento según las investigaciones de Cenicafé y la importancia de conocer la trazabilidad y la fecha de tostión.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -140,9 +140,9 @@
           .row.align-items-center.justify-content-center
             .col-lg-9
               p Regla de los 15: Para garantizar la máxima calidad sensorial, se recomienda:
-              p.mb-0 15 meses desde la cosecha hasta el consumo (café verde almacenado adecuadamente).
-              p.mb-0 15 días desde el tostado hasta el consumo.
-              p.mb-4.mb-lg-0 15 minutos desde la molienda hasta la extracción.
+              p.mb-0.ps-3 15 meses desde la cosecha hasta el consumo (café verde almacenado adecuadamente).
+              p.mb-0.ps-3 15 días desde el tostado hasta el consumo.
+              p.mb-4.ps-3.mb-lg-0 15 minutos desde la molienda hasta la extracción.
             .col-8.col-sm-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema7/11.png", alt="")

@@ -10,7 +10,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema4/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm.banner-text--green
+        div.banner-text.shadow-sm.banner-text--green.mb-4
           p.mb-0 La máquina de espresso y el molino son las herramientas centrales del barista. Su correcto funcionamiento, limpieza y mantenimiento son condiciones indispensables para obtener una bebida de calidad consistente. Este capítulo describe los componentes principales de estos equipos, los tipos de máquinas según su caldera y grado de automatización, así como las rutinas de limpieza diaria, semanal y periódica que garantizan la inocuidad y la vida útil de los equipos.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")

@@ -9,7 +9,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema6/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm.banner-text--yellow
+        div.banner-text.shadow-sm.banner-text--yellow.mb-4
           p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (#[em capuchino, latte, flat white]), sino que también permite la creación de arte latte, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")

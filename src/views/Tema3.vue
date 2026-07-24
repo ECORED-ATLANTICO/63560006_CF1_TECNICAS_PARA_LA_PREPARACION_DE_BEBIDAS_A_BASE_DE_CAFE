@@ -10,7 +10,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema3/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm
+        div.banner-text.shadow-sm.mb-4
           p.mb-0 La molienda es el puente entre el grano tostado y el agua. Es la operación que decide qué tan rápido y qué compuestos se extraerán. Una molienda mal ajustada es la principal causa de tazas desbalanceadas: ácidas o amargas, aguadas o astringentes. Este capítulo explica los fundamentos de la molienda, la importancia de la uniformidad (granulometría), los tipos de molinos disponibles en el mercado colombiano y cómo ajustar la molienda según el método de preparación elegido. 
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -98,27 +98,27 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/3.png", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.px-0
             h4.mb-3 Molienda extremadamente heterogénea
-            p.mb-0 La cuchilla no produce partículas de tamaño controlado; se obtiene una mezcla de polvo fino (finos) y fragmentos grandes (gruesos) que extraerán de manera desigual.
+            p.mb-0.px-4 La cuchilla no produce partículas de tamaño controlado; se obtiene una mezcla de polvo fino (finos) y fragmentos grandes (gruesos) que extraerán de manera desigual.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/4.png", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.px-0
             h4.mb-3 Sobrecalentamiento del café
-            p.mb-0 La alta fricción eleva la temperatura de la molienda hasta 50-60 °C o más, lo que volatiliza los aceites esenciales y compuestos aromáticos, achatando el perfil sensorial.
+            p.mb-0.px-4 La alta fricción eleva la temperatura de la molienda hasta 50-60 °C o más, lo que volatiliza los aceites esenciales y compuestos aromáticos, achatando el perfil sensorial.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema3/5.png", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.px-0
             h4.mb-3 Oxidación acelerada
-            p.mb-0 Al generar mucho polvo, la superficie de contacto con el oxígeno aumenta drásticamente, haciendo que el café pierda su frescura en cuestión de minutos.
+            p.mb-0.px-4 Al generar mucho polvo, la superficie de contacto con el oxígeno aumenta drásticamente, haciendo que el café pierda su frescura en cuestión de minutos.
 
 
     .bg-terciario-t20.p-4.rounded-4.mb-4.mb-lg-5
@@ -141,35 +141,35 @@
             .col-lg-8
               h4 Velocidad de giro
               p Entre 900 y 1.400 rpm (más rápida que los cónicos, pero menor que las cuchillas). 
-            .col-lg-2
+            .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/7.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Ajuste de molienda")
             .col-lg-8
               h4 Ajuste de molienda
               p Se puede ajustar fácilmente desde 0 (extremadamente fino) hasta 10 (extremadamente grueso). 
-            .col-lg-2
+            .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/8.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Uniformidad")
             .col-lg-8
               h4 Uniformidad
               p Media. La distribución de partículas es aceptable para métodos filtrados, pero produce una cantidad moderada de finos que pueden causar algo de amargor en espresso. 
-            .col-lg-2
+            .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/9.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Generación de calor")
             .col-lg-8
               h4 Generación de calor
               p Moderada. Si se muelen grandes volúmenes de forma continua, los discos se calientan, lo que puede degradar ligeramente los aromas. 
-            .col-lg-2
+            .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/10.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Mantenimiento")
             .col-lg-8
               h4 Mantenimiento
               p Los discos deben reemplazarse cada 300-500 kg de café molido (dependiendo de la dureza del grano y la frecuencia de uso). 
-            .col-lg-2
+            .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/11.svg", alt="alt")
 

@@ -10,7 +10,7 @@
     img(data-aos="fade-up")(src="@/assets/curso/tema2/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
-        div.banner-text.shadow-sm
+        div.banner-text.shadow-sm.mb-4
           p.mb-0 El agua es el principal componente de la bebida de café, representando hasta el 98 % de su volumen. Sin embargo, con frecuencia se subestima su importancia. La composición química del agua -su contenido de minerales, dureza, alcalinidad y pH- determina la eficacia con la que se extraen los compuestos solubles y aromáticos del café, así como la estabilidad de los equipos. Este capítulo expone los parámetros de calidad del agua recomendados para la preparación de café de especialidad, los métodos de tratamiento más comunes y la relación óptima entre la cantidad de café y agua.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -98,7 +98,7 @@
       p.mb-0.text-center El agua de red puede contener contaminantes que afectan negativamente el sabor del café y la operación de los equipos: 
 
     .row.align-items-stretch.justify-content-center.mb-4.mb-lg-5
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/4.svg' alt='')
@@ -106,7 +106,7 @@
             .p-4
               h5 Cloro y cloraminas
               p.mb-0 Añadidos para desinfección, generan sabores a "medicina" y pueden reaccionar con compuestos del café produciendo clorofenoles.
-      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-lg-0
+      .col-sm-8.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema2/5.svg' alt='')          
