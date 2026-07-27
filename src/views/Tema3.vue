@@ -268,7 +268,7 @@
             figure
               img(src="@/assets/curso/tema3/14.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Molienda extremadamente heterogénea
+            h4.mb-3 Molino de cuchillas
             p.mb-0 Uniformidad de molienda: muy baja.
             p.mb-0 Rango de ajuste (micras): no ajustable.
             p.mb-0 Generación de finos (% en masa):  25 %.
