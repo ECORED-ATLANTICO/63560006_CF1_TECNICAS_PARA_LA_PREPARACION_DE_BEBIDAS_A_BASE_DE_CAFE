@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Fundamentos y métodos de preparación del café ',
     Description:
-      '​​​Este componente formativo desarrolla los fundamentos botánicos, históricos y de transformación del café, así como las técnicas de preparación mediante métodos espresso y alternativos. Aborda la calidad del agua, la molienda, el manejo de equipos y la conservación de atributos sensoriales para garantizar bebidas de alta calidad. ',
+      '​​​Este componente formativo desarrolla los fundamentos botánicos, históricos y de transformación del café, así como las técnicas de preparación mediante métodos <em>espresso</em> y alternativos. Aborda la calidad del agua, la molienda, el manejo de equipos y la conservación de atributos sensoriales para garantizar bebidas de alta calidad. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -158,9 +158,9 @@ export default {
       significado: 'Jarra de vidrio con filtro grueso para método de goteo.',
     },
     {
-      termino: 'Crema (del espresso)',
+      termino: 'Crema (del <em>espresso</em>)',
       significado:
-        'Capa de espuma de color avellana que corona un espresso bien extraído.',
+        'Capa de espuma de color avellana que corona un <em>espresso</em> bien extraído.',
     },
     {
       termino: 'Cremado de leche',
@@ -173,7 +173,7 @@ export default {
         'Concentración de iones de calcio y magnesio que afecta la extracción y las incrustaciones.',
     },
     {
-      termino: 'Espresso',
+      termino: '<em>Espresso</em>',
       significado:
         'Bebida concentrada obtenida por presión de 9 bares a través de café molido fino.',
     },

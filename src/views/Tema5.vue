@@ -12,12 +12,12 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Cada método de extracción - espresso, goteo, inmersión, vacío, presión manual- ofrece un perfil sensorial diferente y exige un dominio de variables específicas: molienda, temperatura, proporción agua-café, tiempo de contacto, turbulencia y tipo de filtro. Este capítulo presenta en detalle los procedimientos estandarizados para los métodos más utilizados en Colombia, incluyendo consejos para la resolución de problemas comunes y tablas comparativas que sirve como guía rápida.
+          p.mb-0 Cada método de extracción - <em>espresso</em>, goteo, inmersión, vacío, presión manual- ofrece un perfil sensorial diferente y exige un dominio de variables específicas: molienda, temperatura, proporción agua-café, tiempo de contacto, turbulencia y tipo de filtro. Este capítulo presenta en detalle los procedimientos estandarizados para los métodos más utilizados en Colombia, incluyendo consejos para la resolución de problemas comunes y tablas comparativas que sirve como guía rápida.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
         .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (pour over) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en espresso como en Aeropress, e incluso en una cafetera moka bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (espresso, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el espresso con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
+          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (pour over) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en <em>espresso</em> como en Aeropress, e incluso en una cafetera moka bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (<em>espresso</em>, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el <em>espresso</em> con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
       .col-sm-8.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema5/2.png", alt="")
@@ -25,7 +25,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Procedimiento paso a paso (espresso doble, 18 g de café, 36 g de bebida):
+        h3.titulo-con-imagen__texto Procedimiento paso a paso (<em>espresso</em> doble, 18 g de café, 36 g de bebida):
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -50,7 +50,7 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 9.
-          span Diagnóstico de errores en espresso
+          span Diagnóstico de errores en <em>espresso</em>
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -171,7 +171,7 @@
           div(titulo="Cafetera moka (greca): preparación tradicional italiana")
             .ps-lg-5
               ul.checklist.ms-3
-                li Molienda: media-fina (más gruesa que espresso).
+                li Molienda: media-fina (más gruesa que <em>espresso</em>).
               p.mb-0 #[strong Procedimiento]:
               ol.lista-ol.mb-3
                 li.mb-0 
@@ -210,7 +210,7 @@
                 th(colspan="2") Perfil sensorial
             tbody
               tr(style="background-color: #F0F4EE")
-                td Espresso
+                td <em>Espresso</em>
                 td Fina
                 td 1:2 - 1:2,5
                 td 92-96 °C
@@ -257,7 +257,7 @@
                 td 1:7 - 1:9
                 td (vapor)
                 td 3-5 min
-                td(colspan="2") Concentrado, similar a espresso
+                td(colspan="2") Concentrado, similar a <em>espresso</em>
     
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
         .col-lg-9

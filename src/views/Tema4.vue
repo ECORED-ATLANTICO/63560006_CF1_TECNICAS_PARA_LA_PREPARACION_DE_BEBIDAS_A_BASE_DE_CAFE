@@ -11,14 +11,14 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow-sm.banner-text--green.mb-4
-          p.mb-0 La máquina de espresso y el molino son las herramientas centrales del barista. Su correcto funcionamiento, limpieza y mantenimiento son condiciones indispensables para obtener una bebida de calidad consistente. Este capítulo describe los componentes principales de estos equipos, los tipos de máquinas según su caldera y grado de automatización, así como las rutinas de limpieza diaria, semanal y periódica que garantizan la inocuidad y la vida útil de los equipos.
+          p.mb-0 La máquina de <em>espresso</em> y el molino son las herramientas centrales del barista. Su correcto funcionamiento, limpieza y mantenimiento son condiciones indispensables para obtener una bebida de calidad consistente. Este capítulo describe los componentes principales de estos equipos, los tipos de máquinas según su caldera y grado de automatización, así como las rutinas de limpieza diaria, semanal y periódica que garantizan la inocuidad y la vida útil de los equipos.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Máquina de espresso: componentes y funcionamiento
+        h3.titulo-con-imagen__texto Máquina de <em>espresso</em>: componentes y funcionamiento
 
-    p.mb-4 La máquina de espresso profesional se compone de:
+    p.mb-4 La máquina de <em>espresso</em> profesional se compone de:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -29,7 +29,7 @@
           .row.justify-content-center
             .col-lg-10
               h4 Caldera o intercambiador de calor
-              p Calienta el agua y genera vapor. Las máquinas de doble caldera permiten extraer espresso y vaporizar leche simultáneamente.
+              p Calienta el agua y genera vapor. Las máquinas de doble caldera permiten extraer <em>espresso</em> y vaporizar leche simultáneamente.
           .row.justify-content-center
             .col-lg-10
               h4 Bomba (rotativa o vibratoria)
@@ -93,7 +93,7 @@
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
         h3.titulo-con-imagen__texto Métodos alternativos: equipos y utensilios
 
-    p.mb-4 Además de la máquina de espresso, una cafetería completa debe ofrecer métodos alternativos. Cada uno requiere su equipo específico y su técnica:
+    p.mb-4 Además de la máquina de <em>espresso</em>, una cafetería completa debe ofrecer métodos alternativos. Cada uno requiere su equipo específico y su técnica:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4.d-none.d-xl-block
@@ -171,12 +171,12 @@
                 td Después de cada uso
                 td Evita leche quemada que atraiga bacterias
               tr
-                td Máquina de espresso
+                td Máquina de <em>espresso</em>
                 td Backflush con agua
                 td Diario (final de jornada)
                 td Limpieza superficial del circuito hidráulico
               tr(style="background-color: #F0F4EE")
-                td Máquina de espresso
+                td Máquina de <em>espresso</em>
                 td Backflush con detergente
                 td Semanal
                 td Elimina aceites y café acumulado

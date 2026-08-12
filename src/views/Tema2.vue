@@ -210,7 +210,7 @@
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/13.png' alt='')
-            h4.mb-4 Máquina de espresso / Tetera  
+            h4.mb-4 Máquina de <em>espresso</em> / Tetera  
             p #[strong Funcion]: preparar café con agua tratada. Protege caldera y termo bloque. 
             p.mb-0 #[strong Mantenimiento]: realizar limpieza diaria (portafiltro, lanza). Backflush semanal con detergente.  
 
@@ -220,7 +220,7 @@
         h3.titulo-con-imagen__texto Relación agua-café: proporciones y temperaturas óptima
 
     .p-4.bg-terciario-t5.rounded-4.mb-4.mb-lg-5
-      p.mb-0 La proporción entre la masa de café molido y la masa de agua es la variable que controla la concentración de la bebida. La regla general es utilizar una relación de 1:16 a 1:18 (café:agua) para métodos filtrados, y de 1:2 a 1:2,5 para espresso. Estas relaciones se expresan en peso (gramos).
+      p.mb-0 La proporción entre la masa de café molido y la masa de agua es la variable que controla la concentración de la bebida. La regla general es utilizar una relación de 1:16 a 1:18 (café:agua) para métodos filtrados, y de 1:2 a 1:2,5 para <em>espresso</em>. Estas relaciones se expresan en peso (gramos).
 
     .row.justify-content-center
       .col-lg-10.col-xl-8
@@ -237,7 +237,7 @@
                 th Ejemplo (café / agua)
             tbody
               tr(style="background-color: #F0F4EE")
-                td Espresso (tradicional)
+                td <em>Espresso</em> (tradicional)
                 td 1:2 - 1:2,5
                 td 18 g / 36 - 45 g
               tr

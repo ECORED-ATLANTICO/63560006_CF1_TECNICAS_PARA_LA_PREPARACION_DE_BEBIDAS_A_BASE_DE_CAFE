@@ -75,7 +75,7 @@
                 td Hojuelas de avena
 
     .p-4.bg-terciario-t5.rounded-4.mb-4.mb-lg-5
-      p.mb-0 Medición en cafetería: se puede usar un analizador manual de tamices como el Kruve. Para ajustes rápidos, basta con observar el flujo de la extracción (en espresso, tiempo de 20-30 s; en filtro, tiempo de goteo de 2-4 min). 
+      p.mb-0 Medición en cafetería: se puede usar un analizador manual de tamices como el Kruve. Para ajustes rápidos, basta con observar el flujo de la extracción (en <em>espresso</em>, tiempo de 20-30 s; en filtro, tiempo de goteo de 2-4 min). 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -154,7 +154,7 @@
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Uniformidad")
             .col-lg-8
               h4 Uniformidad
-              p Media. La distribución de partículas es aceptable para métodos filtrados, pero produce una cantidad moderada de finos que pueden causar algo de amargor en espresso. 
+              p Media. La distribución de partículas es aceptable para métodos filtrados, pero produce una cantidad moderada de finos que pueden causar algo de amargor en <em>espresso</em>. 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/9.svg", alt="alt")
@@ -183,7 +183,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Aplicación recomendada:
-                  p.mb-0 Uso doméstico o en cafeterías de muy bajo volumen (menos de 2 kg/día) para métodos de filtro (V60, Chemex, prensa francesa). No son ideales para espresso por la falta de precisión en los ajustes finos y la presencia de finos. 
+                  p.mb-0 Uso doméstico o en cafeterías de muy bajo volumen (menos de 2 kg/día) para métodos de filtro (V60, Chemex, prensa francesa). No son ideales para <em>espresso</em> por la falta de precisión en los ajustes finos y la presencia de finos. 
                   p Ejemplo Molino Eureka Mignon Manuale véase.
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.homecenter.com.co/homecenter-co/product/3015070/molino-eureka-mignon-manuale-color-negro/3015070/" target="_blank")
@@ -214,7 +214,7 @@
           .row.justify-content-center
             .col-lg-10
               h4 Amplio rango de ajuste
-              p.mb-0 Desde 100 micras para espresso turco hasta más de 1.200 micras para cold brew. el ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
+              p.mb-0 Desde 100 micras para <em>espresso</em> turco hasta más de 1.200 micras para cold brew. el ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
           .row.justify-content-center
             .col-lg-10
               h4 Menor generación de estática
@@ -234,7 +234,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Aplicación recomendada:
-                  p.mb-0 Todo tipo de métodos, especialmente espresso y aeropress. Son indispensables en cafeterías de especialidad, tostadores y laboratorios de control de calidad. 
+                  p.mb-0 Todo tipo de métodos, especialmente <em>espresso</em> y aeropress. Son indispensables en cafeterías de especialidad, tostadores y laboratorios de control de calidad. 
                   p Ejemplos Mazzer Kold S, Vease.  
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://almanegra.cafe/products/molino-mazzer-kold-s?srsltid=AfmBOoqsxzaKp9lsq0inE0dztWjn7wv4rJe_wx6wnDYp1XY41kbRvyRx" target="_blank")
@@ -250,7 +250,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Explore el siguiente recurso audiovisual para fortalecer sus conocimientos sobre los molinos de café. Preste atención a los diferentes sistemas de dosificación, sus características y la importancia del mantenimiento para garantizar una molienda precisa y un espresso de alta calidad.
+                  p.mb-0 Explore el siguiente recurso audiovisual para fortalecer sus conocimientos sobre los molinos de café. Preste atención a los diferentes sistemas de dosificación, sus características y la importancia del mantenimiento para garantizar una molienda precisa y un <em>espresso</em> de alta calidad.
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.youtube.com/watch?v=8FxCpLcC47c" target="_blank")
                     span Abrir video
@@ -307,7 +307,7 @@
             p.mb-0 Velocidad de rotación (rpm): 400 - 600.
             p.mb-0 Temperatura alcanzada (molido continuo): 30 - 40 °C.
             p.mb-0 Vida útil de las fresas (kg de café): 800 - 1.500.
-            p.mb-0 Aplicación ideal: espresso, laboratorio, alta producción.
+            p.mb-0 Aplicación ideal: <em>espresso</em>, laboratorio, alta producción.
             p.mb-0 Rango de precios (COP): 1.500.000 - 12.000.000
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")

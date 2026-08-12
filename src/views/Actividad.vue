@@ -205,7 +205,7 @@ export default {
         {
           id: 6,
           texto:
-            'Para una extracción de espresso perfecta, la presión y la temperatura del agua deben ser:',
+            'Para una extracción de <em>espresso</em> perfecta, la presión y la temperatura del agua deben ser:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -231,14 +231,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La presión ideal para la máquina de espresso es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
+            'Correcto. La presión ideal para la máquina de <em>espresso</em> es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
           texto:
-            'El mantenimiento de la máquina de espresso incluye el proceso de backflush. ¿Cuál es la frecuencia correcta para el backflush con detergente especial?',
+            'El mantenimiento de la máquina de <em>espresso</em> incluye el proceso de backflush. ¿Cuál es la frecuencia correcta para el backflush con detergente especial?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -271,7 +271,7 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál es el comportamiento ideal que indica una molienda y compactación adecuadas durante la extracción de un espresso?',
+            '¿Cuál es el comportamiento ideal que indica una molienda y compactación adecuadas durante la extracción de un <em>espresso</em>?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -308,18 +308,20 @@ export default {
         {
           id: 9,
           texto:
-            '¿Cuál es la relación café-agua (en peso) recomendada para un espresso tradicional y para un método de goteo (pour over), respectivamente?',
+            '¿Cuál es la relación café-agua (en peso) recomendada para un <em>espresso</em> tradicional y para un método de goteo (pour over), respectivamente?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '1:2 a 1:2,5 para espresso; 1:15 a 1:17 para filtrado.',
+              texto:
+                '1:2 a 1:2,5 para <em>espresso</em>; 1:15 a 1:17 para filtrado.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: '1:15 a 1:17 para espresso; 1:2 a 1:2,5 para filtrado.',
+              texto:
+                '1:15 a 1:17 para <em>espresso</em>; 1:2 a 1:2,5 para filtrado.',
               esCorrecta: false,
             },
             {
@@ -329,12 +331,12 @@ export default {
             },
             {
               id: 'd',
-              texto: '1:5 para espresso; 1:20 para filtrado.',
+              texto: '1:5 para <em>espresso</em>; 1:20 para filtrado.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Correcto. Para espresso la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
+            'Correcto. Para <em>espresso</em> la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -597,7 +599,7 @@ export default {
             {
               id: 'a',
               texto:
-                'Utilizar presión manual de 9 bares, similar a la máquina de espresso.',
+                'Utilizar presión manual de 9 bares, similar a la máquina de <em>espresso</em>.',
               esCorrecta: false,
             },
             {
@@ -664,7 +666,7 @@ export default {
         {
           id: 19,
           texto:
-            'El mantenimiento preventivo de la máquina de espresso incluye la inspección de juntas y empaques. ¿Cuándo se debe reemplazar la junta del grupo portafiltro?',
+            'El mantenimiento preventivo de la máquina de <em>espresso</em> incluye la inspección de juntas y empaques. ¿Cuándo se debe reemplazar la junta del grupo portafiltro?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
