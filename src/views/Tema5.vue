@@ -17,10 +17,17 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
         .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (pour over) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en <em>espresso</em> como en Aeropress, e incluso en una cafetera moka bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (<em>espresso</em>, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el <em>espresso</em> con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
+          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (<em>pour over</em>) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en <em>espresso</em> como en Aeropress, e incluso en una cafetera moka bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (<em>espresso</em>, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el <em>espresso</em> con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
       .col-sm-8.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema5/2.png", alt="")
+
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
+        h3.titulo-con-imagen__texto Método espresso: fundamentos, variables y procedimiento 
+
+    p.mb-5 El #[em espresso] es la base de la mayoría de las bebidas de cafetería. Se define como una bebida de 25-35 ml obtenida al forzar agua caliente a 9 bares a través de una cama de 7-9 g de café molido fino, compactada, durante 20-30 segundos. La crema (espuma de color avellana) es su sello distintivo. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -42,7 +49,7 @@
           div(titulo="Purgar el grupo")
             p.mb-0.ps-lg-5 Deje correr agua 1-2 segundos antes de insertar el portafiltro para eliminar posos residuales y estabilizar la temperatura.
           div(titulo="Extraer")
-            p.mb-0.ps-lg-5 Inicie la bomba. Las primeras gotas deben aparecer entre 4-6 segundos. El flujo debe ser constante, como "cola de ratón". Detenga la extracción cuando alcance los 36 g (en balanza) o al observar aclaramiento de la crema (blonde).
+            p.mb-0.ps-lg-5 Inicie la bomba. Las primeras gotas deben aparecer entre 4-6 segundos. El flujo debe ser constante, como "cola de ratón". Detenga la extracción cuando alcance los 36 g (en balanza) o al observar aclaramiento de la crema (#[em blonde]).
           div(titulo="Servir")
             p.mb-0.ps-lg-5 Sirva inmediatamente en taza precalentada.
  

@@ -37,7 +37,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 3.
-          span Parámetros de calidad del agua para la preparación de café.
+          span Parámetros de calidad del agua para la preparación de café
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -135,7 +135,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 4.
-          span Métodos de tratamiento.
+          span Métodos de tratamiento
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -158,7 +158,7 @@
                 td No reduce dureza; requiere reemplazo periódico
               tr
                 td Ablandador (intercambio iónico)
-                td 5Calcio, magnesio (dureza)
+                td Calcio, magnesio (dureza)
                 td Previene incrustaciones
                 td Aporta sodio; no elimina cloro
               tr(style="background-color: #F0F4EE")
@@ -183,8 +183,8 @@
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/9.png' alt='')
             h4.mb-4 Red de agua
-            p #[strong Función]: suministra e agua proveniente de la red 
-            p.mb-0 #[strong Mantenimiento]: verificar la prsióna deacuada con la que debe entrar y hacer revisiones periodicas. 
+            p #[strong Función]: suministra e agua proveniente de la red.
+            p.mb-0 #[strong Mantenimiento]: verificar la presión adecuada con la que debe entrar y hacer revisiones periodicas. 
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
@@ -212,7 +212,7 @@
                 img(src='@/assets/curso/tema2/13.png' alt='')
             h4.mb-4 Máquina de <em>espresso</em> / Tetera  
             p #[strong Funcion]: preparar café con agua tratada. Protege caldera y termo bloque. 
-            p.mb-0 #[strong Mantenimiento]: realizar limpieza diaria (portafiltro, lanza). Backflush semanal con detergente.  
+            p.mb-0 #[strong Mantenimiento]: realizar limpieza diaria (portafiltro, lanza). #[em Backflush] semanal con detergente.  
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -226,7 +226,7 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 5.
-          span Proporciones recomendadas por método.
+          span Proporciones recomendadas por método
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -241,7 +241,7 @@
                 td 1:2 - 1:2,5
                 td 18 g / 36 - 45 g
               tr
-                td Pour over (V60/Chemex)
+                td #[em Pour over] (V60/Chemex)
                 td 1:15 - 1:17
                 td 15 g / 240 - 270 g
               tr(style="background-color: #F0F4EE")

@@ -126,8 +126,8 @@
                 td Bodega seca y fresca (humedad <12 %)
                 td hasta 12 meses
               tr
-                td PCafé tostado en grano
-                td Envase hermético, oscuro, T ambiente
+                td Café tostado en grano
+                td Envase hermético, oscuro, temperatura ambiente
                 td 15 - 30 días
               tr(style="background-color: #F0F4EE")
                 td Café tostado y molido

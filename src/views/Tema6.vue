@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Cremado de leche y arte latte
+      h1 Cremado de leche y arte <em>latte</em>
     img(data-aos="fade-up")(src="@/assets/curso/tema6/1.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow-sm.banner-text--yellow.mb-4
-          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (#[em capuchino, latte, flat white]), sino que también permite la creación de arte latte, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
+          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (#[em capuchino, latte, flat white]), sino que también permite la creación de arte <em>latte</em>, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -26,14 +26,14 @@
             img(src='@/assets/curso/tema6/2.png' alt='')
           .tarjeta.bg-terciario-t5
             .p-4.py-3
-              p.mb-0 Desnaturalización de proteínas: Las proteínas se despliegan y forman una red que atrapa burbujas de aire.
+              p.mb-0 Desnaturalización de proteínas: las proteínas se despliegan y forman una red que atrapa burbujas de aire.
       .col-sm-8.col-lg-6.col-xl-5
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/tema6/3.png' alt='')          
           .tarjeta.bg-terciario-t5
             .p-4.py-3
-              p.mb-0 Emulsión de la grasa: La grasa ayuda a dar cuerpo y brillo a la espuma.
+              p.mb-0 Emulsión de la grasa: la grasa ayuda a dar cuerpo y brillo a la espuma.
 
     .p-4.bg-contenido-a5.rounded-4.mb-4.mb-lg-5
       p.mb-0.text-center La leche entera (3-4 % grasa) produce la micro espuma más estable y sedosa. La leche descremada produce burbujas grandes y espuma poco duradera. Las leches vegetales requieren emulsionantes añadidos y temperaturas más bajas.
@@ -75,23 +75,23 @@
               figure
                 img.mb-4.mb-lg-0(src="@/assets/curso/tema6/8.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              p.mb-4.mb-lg-0 Fase de estiramiento (stretch): Se escucha un chirrido suave (aspiración de aire). Dura 3-6 segundos. La leche aumenta ligeramente de volumen.
+              p.mb-4.mb-lg-0 Fase de estiramiento (stretch): se escucha un chirrido suave (aspiración de aire). Dura 3-6 segundos. La leche aumenta ligeramente de volumen.
           .row.justify-content-center.align-items-center
             .col-4.col-sm-3.col-lg-2
               figure
                 img.mb-4.mb-lg-0(src="@/assets/curso/tema6/9.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              p.mb-4.mb-lg-0 Fase de texturizado: Hundir la lanza hasta que quede sumergida unos 2-3 cm. Se debe formar un vórtice (remolino) que integra la espuma y corta burbujas grandes.
+              p.mb-4.mb-lg-0 Fase de texturizado: hundir la lanza hasta que quede sumergida unos 2-3 cm. Se debe formar un vórtice (remolino) que integra la espuma y corta burbujas grandes.
+          .row.justify-content-center.align-items-center
+            .col-4.col-sm-3.col-lg-2
+              figure
+                img.mb-4.mb-lg-0(src="@/assets/curso/tema6/16.png", alt="" data-aos="zoom-in-down")
+            .col-lg-8
+              p.mb-4.mb-lg-0 Control de temperatura: cuando la jarra esté caliente al tacto (aproximadamente 55-65 °C), cerrar el vapor. No superar los 70 °C.
           .row.justify-content-center.align-items-center
             .col-4.col-sm-3.col-lg-2
               figure
                 img.mb-4.mb-lg-0(src="@/assets/curso/tema6/10.png", alt="" data-aos="zoom-in-down")
-            .col-lg-8
-              p.mb-4.mb-lg-0 Control de temperatura: Cuando la jarra esté caliente al tacto (aproximadamente 55-65 °C), cerrar el vapor. No superar los 70 °C.
-          .row.justify-content-center.align-items-center
-            .col-4.col-sm-3.col-lg-2
-              figure
-                img.mb-4.mb-lg-0(src="@/assets/curso/tema6/6.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
               p.mb-4.mb-lg-0 Limpiar la lanza con un paño húmedo y purgar de nuevo.
           .row.justify-content-center.align-items-center
@@ -135,11 +135,11 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Vertido básico y figuras elementales del arte latte
+        h3.titulo-con-imagen__texto Vertido básico y figuras elementales del arte <em>latte</em>
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
-        p.mb-4.mb-lg-0 El arte latte, o latte art, no es un adorno superficial, sino la culminación visible de una técnica de cremado perfecta y la prueba de que la leche ha sido texturizada con precisión. Lejos de ser un simple "dibujo", cada figura refleja la correcta emulsión de la leche y la maestría en el manejo de la jarra. Aunque se debate su origen exacto, el arte latte moderno nació en la cultura del café de especialidad de Estados Unidos a finales de los años ochenta. Baristas como David Schomer, de #[em Espresso] Vivace en Seattle, popularizaron el vertido de la roseta, observando que un movimiento oscilante de la jarra al final del vertido creaba un patrón similar a las hojas de un helecho. Desde entonces, el corazón y la roseta se han convertido en los dos pilares fundamentales sobre los que se construyen todas las demás figuras.
+        p.mb-4.mb-lg-0 El arte <em>latte</em>, o <em>latte art</em>, no es un adorno superficial, sino la culminación visible de una técnica de cremado perfecta y la prueba de que la leche ha sido texturizada con precisión. Lejos de ser un simple "dibujo", cada figura refleja la correcta emulsión de la leche y la maestría en el manejo de la jarra. Aunque se debate su origen exacto, el arte <em>latte</em> moderno nació en la cultura del café de especialidad de Estados Unidos a finales de los años ochenta. Baristas como David Schomer, de <em>Espresso Vivace</em> en Seattle, popularizaron el vertido de la roseta, observando que un movimiento oscilante de la jarra al final del vertido creaba un patrón similar a las hojas de un helecho. Desde entonces, el corazón y la roseta se han convertido en los dos pilares fundamentales sobre los que se construyen todas las demás figuras.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema6/12.png", alt="")
@@ -167,7 +167,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Explore los siguientes videos y descubra cómo realizar los diseños más representativos del arte latte: el corazón y la rosetta. Indague cada etapa del proceso y reconozca las técnicas que permiten lograr un acabado limpio y uniforme: 
+                  p.mb-0 Explore los siguientes videos y descubra cómo realizar los diseños más representativos del arte <em>latte</em>: el corazón y la rosetta. Indague cada etapa del proceso y reconozca las técnicas que permiten lograr un acabado limpio y uniforme: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.youtube.com/watch?v=TwC6TN9YKU4" target="_blank")
                     span Abrir video

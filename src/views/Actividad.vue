@@ -20,7 +20,7 @@ export default {
       tema: 'Verificando los fundamentos y métodos de preparación del café ',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar sus conocimientos sobre botánica del café, calidad del agua, molienda, maquinaria, métodos de extracción, cremado de leche, arte latte y conservación de atributos sensoriales.',
+        '<b> Objetivo:</b> Evaluar sus conocimientos sobre botánica del café, calidad del agua, molienda, maquinaria, métodos de extracción, cremado de leche, arte <em>latte</em> y conservación de atributos sensoriales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -34,22 +34,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Coffea canephora (robusta)',
+              texto: '<em>Coffea canephora</em> (robusta)',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Coffea liberica',
+              texto: '<em>Coffea</em> liberica',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Coffea arábica',
+              texto: '<em>Coffea</em> arábica',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Coffea excelsa',
+              texto: '<em>Coffea</em> excelsa',
               esCorrecta: false,
             },
           ],
@@ -231,14 +231,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La presión ideal para la máquina de <em>espresso</em> es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
+            'Correcto. La presión ideal para la máquina de espresso es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
           texto:
-            'El mantenimiento de la máquina de <em>espresso</em> incluye el proceso de backflush. ¿Cuál es la frecuencia correcta para el backflush con detergente especial?',
+            'El mantenimiento de la máquina de <em>espresso</em> incluye el proceso de <em>backflush</em>. ¿Cuál es la frecuencia correcta para el <em>backflush</em> con detergente especial?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -308,7 +308,7 @@ export default {
         {
           id: 9,
           texto:
-            '¿Cuál es la relación café-agua (en peso) recomendada para un <em>espresso</em> tradicional y para un método de goteo (pour over), respectivamente?',
+            '¿Cuál es la relación café-agua (en peso) recomendada para un <em>espresso</em> tradicional y para un método de goteo (<em>pour over</em>), respectivamente?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -336,14 +336,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Para <em>espresso</em> la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
+            'Correcto. Para espresso la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
           texto:
-            'En la técnica de cremado de leche con vaporizador, ¿cuál es la función de la fase de "estiramiento" (stretch)?',
+            'En la técnica de cremado de leche con vaporizador, ¿cuál es la función de la fase de "estiramiento" (<em>stretch</em>)?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -379,7 +379,7 @@ export default {
         {
           id: 11,
           texto:
-            'Las figuras elementales del arte latte son el corazón y la roseta. ¿Cuál es la diferencia fundamental en el movimiento de vertido entre ambas?',
+            'Las figuras elementales del arte <em>latte</em> son el corazón y la roseta. ¿Cuál es la diferencia fundamental en el movimiento de vertido entre ambas?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -605,7 +605,7 @@ export default {
             {
               id: 'b',
               texto:
-                'Ser un método de goteo (pour over) que utiliza filtros de papel.',
+                'Ser un método de goteo (<em>pour over</em>) que utiliza filtros de papel.',
               esCorrecta: false,
             },
             {
@@ -629,7 +629,7 @@ export default {
         {
           id: 18,
           texto:
-            'La preinfusión (o bloom) en los métodos de vertido manual (pour over) consiste en:',
+            'La preinfusión (o bloom) en los métodos de vertido manual (<em>pour over</em>) consiste en:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

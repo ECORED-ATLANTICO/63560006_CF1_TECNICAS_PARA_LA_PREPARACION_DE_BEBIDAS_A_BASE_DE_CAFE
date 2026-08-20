@@ -39,7 +39,7 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 6.
-          span Clasificación de tamaños de partícula (micras).
+          span Clasificación de tamaños de partícula (micras)
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -75,7 +75,7 @@
                 td Hojuelas de avena
 
     .p-4.bg-terciario-t5.rounded-4.mb-4.mb-lg-5
-      p.mb-0 Medición en cafetería: se puede usar un analizador manual de tamices como el Kruve. Para ajustes rápidos, basta con observar el flujo de la extracción (en <em>espresso</em>, tiempo de 20-30 s; en filtro, tiempo de goteo de 2-4 min). 
+      p.mb-0 Medición en cafetería: se puede usar un analizador manual de tamices como el #[em Kruve]. Para ajustes rápidos, basta con observar el flujo de la extracción (en <em>espresso</em>, tiempo de 20-30 s; en filtro, tiempo de goteo de 2-4 min). 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -83,7 +83,7 @@
         h3.titulo-con-imagen__texto Tipos de molinos y su incidencia en la consistencia 
     
     .p-4.bg-secundario-s20.rounded-4.mb-4.mb-lg-5
-      p.mb-0 La elección del molino es una de las decisiones más importantes en una cafetería o en el ámbito doméstico, pues de él depende directamente la uniformidad de la molienda y, por ende, la calidad de la extracción. A continuación se describen los tres tipos principales de molinos, desde los menos recomendados hasta el estándar profesional, incorporando hallazgos de investigaciones y referentes internacionales validados por la Federación Nacional de Cafeteros. 
+      p.mb-0 La elección del molino es una de las decisiones más importantes en una cafetería o en el ámbito doméstico, pues de él depende directamente la uniformidad de la molienda y, por ende, la calidad de la extracción. A continuación, se describen los tres tipos principales de molinos, desde los menos recomendados hasta el estándar profesional, incorporando hallazgos de investigaciones y referentes internacionales validados por la Federación Nacional de Cafeteros. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -139,35 +139,30 @@
         TabsA.color-acento-botones
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Velocidad de giro")
             .col-lg-8
-              h4 Velocidad de giro
               p Entre 900 y 1.400 rpm (más rápida que los cónicos, pero menor que las cuchillas). 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/7.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Ajuste de molienda")
             .col-lg-8
-              h4 Ajuste de molienda
               p Se puede ajustar fácilmente desde 0 (extremadamente fino) hasta 10 (extremadamente grueso). 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/8.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Uniformidad")
             .col-lg-8
-              h4 Uniformidad
               p Media. La distribución de partículas es aceptable para métodos filtrados, pero produce una cantidad moderada de finos que pueden causar algo de amargor en <em>espresso</em>. 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/9.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Generación de calor")
             .col-lg-8
-              h4 Generación de calor
               p Moderada. Si se muelen grandes volúmenes de forma continua, los discos se calientan, lo que puede degradar ligeramente los aromas. 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/10.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Mantenimiento")
             .col-lg-8
-              h4 Mantenimiento
               p Los discos deben reemplazarse cada 300-500 kg de café molido (dependiendo de la dureza del grano y la frecuencia de uso). 
             .col-4.col-lg-3.col-xl-2
               figure
@@ -214,7 +209,7 @@
           .row.justify-content-center
             .col-lg-10
               h4 Amplio rango de ajuste
-              p.mb-0 Desde 100 micras para <em>espresso</em> turco hasta más de 1.200 micras para cold brew. el ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
+              p.mb-0 Desde 100 micras para <em>espresso</em> turco hasta más de 1.200 micras para <em>cold brew</em>. el ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
           .row.justify-content-center
             .col-lg-10
               h4 Menor generación de estática
@@ -308,7 +303,7 @@
             p.mb-0 Temperatura alcanzada (molido continuo): 30 - 40 °C.
             p.mb-0 Vida útil de las fresas (kg de café): 800 - 1.500.
             p.mb-0 Aplicación ideal: <em>espresso</em>, laboratorio, alta producción.
-            p.mb-0 Rango de precios (COP): 1.500.000 - 12.000.000
+            p.mb-0 Rango de precios (COP): 1.500.000 - 12.000.000.
     
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo

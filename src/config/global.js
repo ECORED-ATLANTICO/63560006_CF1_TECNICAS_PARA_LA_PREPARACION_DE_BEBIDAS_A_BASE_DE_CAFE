@@ -67,7 +67,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Cremado de leche y arte latte',
+        titulo: 'Cremado de leche y arte <em>latte</em>',
         desarrolloContenidos: true,
       },
       {
@@ -136,7 +136,7 @@ export default {
     {
       termino: 'Arábica',
       significado:
-        'Especie de café (Coffea arábica) valorada por su calidad sensorial superior. Es la única especie cultivada en Colombia.',
+        'Especie de café (<em>Coffea</em> arábica) valorada por su calidad sensorial superior. Es la única especie cultivada en Colombia.',
     },
     {
       termino: 'Beneficio del café',
@@ -198,7 +198,7 @@ export default {
         'Proceso de reducción del grano tostado a partículas de un tamaño determinado.',
     },
     {
-      termino: 'Pour over',
+      termino: '<em>Pour over</em>',
       significado: 'Método de vertido manual (goteo) usando filtro de papel.',
     },
     {
@@ -208,7 +208,7 @@ export default {
     {
       termino: 'Robusta',
       significado:
-        'Especie de café (Coffea canephora) con mayor cafeína, cuerpo pesado y menor calidad sensorial.',
+        'Especie de café (<em>Coffea canephora</em>) con mayor cafeína, cuerpo pesado y menor calidad sensorial.',
     },
     {
       termino: 'Roya del cafeto',
@@ -293,7 +293,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {

@@ -20,7 +20,7 @@
             img.mb-4.mb-lg-0(src="@/assets/curso/tema1/2.png", alt="" data-aos="zoom-in-down")
         .col-lg-10
           h5 Origen y botánica del café
-          p.mb-0 El café es la semilla contenida en el fruto del cafeto, una planta perteneciente al género Coffea, de la familia de las rubiáceas. El fruto es una drupa que se asemeja a una cereza, compuesta por varias capas que cumplen funciones específicas de protección y nutrición de la semilla. Desde el exterior hacia el interior se distinguen:
+          p.mb-0 El café es la semilla contenida en el fruto del cafeto, una planta perteneciente al género #[em Coffea], de la familia de las rubiáceas. El fruto es una drupa que se asemeja a una cereza, compuesta por varias capas que cumplen funciones específicas de protección y nutrición de la semilla. Desde el exterior hacia el interior se distinguen:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-12.col-lg-6
@@ -33,7 +33,7 @@
               p.mb-0.py-xl-3 Epicarpio: la capa externa, o cáscara, que al madurar cambia de color verde a rojo intenso o amarillo, indicando el punto óptimo de cosecha.
           .row.justify-content-center
             .col-lg-10
-              p.mb-0.py-xl-3 Mesocarpio: el mucílago, una capa gelatinosa y azucarada que envuelve el pergamino y que es fundamental en los procesos de beneficio, especialmente en los métodos natural y honey.
+              p.mb-0.py-xl-3 Mesocarpio: el mucílago, una capa gelatinosa y azucarada que envuelve el pergamino y que es fundamental en los procesos de beneficio, especialmente en los métodos natural y #[em honey].
           .row.justify-content-center
             .col-lg-10
               p.mb-0.py-xl-3 Endocarpio: el pergamino, una envoltura dura y fibrosa que protege la semilla.
@@ -44,7 +44,7 @@
             .col-lg-10
               p.mb-0.py-xl-3 Endospermo: la semilla propiamente dicha, conocida comercialmente como grano de café, generalmente presenta dos unidades por fruto, enfrentadas por sus caras planas.
           
-    p.mb-4 El café es la semilla contenida en el fruto del cafeto, una planta perteneciente al género Coffea, de la familia de las rubiáceas. El fruto es una drupa que se asemeja a una cereza, compuesta por varias capas que cumplen funciones específicas de protección y nutrición de la semilla. Desde el exterior hacia el interior se distinguen:
+    p.mb-4 El cafeto es una planta autógama, es decir, se fecunda con su propio polen en un porcentaje que en Colombia alcanza entre el 90 % y el 95 %. Esta característica ha permitido el desarrollo de variedades homogéneas con perfiles sensoriales estables, base de la identidad del café colombiano. 
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
@@ -81,7 +81,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/7.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
         .p-3.bg-terciario-t5.rounded-2.mb-3
-          p.mb-0 La introducción del café al territorio nacional se remonta al siglo XVIII, posiblemente a través de los jesuitas que lo llevaron a las misiones del oriente del país. El primer registro fehaciente de cultivo con fines comerciales data de 1835 en la región de los Santanderes. La expansión del cultivo hacia Antioquia y el Viejo Caldas transformó la economía nacional y consolidó una estructura de producción basada en la pequeña propiedad familiar, que hoy caracteriza al sector: el 96 % de los caficultores colombianos cultivan en áreas inferiores a cinco hectáreas
+          p.mb-0 La introducción del café al territorio nacional se remonta al siglo XVIII, posiblemente a través de los jesuitas que lo llevaron a las misiones del oriente del país. El primer registro fehaciente de cultivo con fines comerciales data de 1835 en la región de los Santanderes. La expansión del cultivo hacia Antioquia y el Viejo Caldas transformó la economía nacional y consolidó una estructura de producción basada en la pequeña propiedad familiar, que hoy caracteriza al sector: el 96 % de los caficultores colombianos cultivan en áreas inferiores a cinco hectáreas.
         p.mb-0 Un hito fundamental fue la creación de la Federación Nacional de Cafeteros de Colombia en 1927, una entidad gremial que ha representado los intereses de los productores, administra el Fondo Nacional del Café y ha liderado la promoción del grano a nivel mundial a través del exitoso personaje de Juan Valdez.
 
     .bg-timeline.mb-5
@@ -161,7 +161,7 @@
             p.mb-0.ps-lg-5 Es el método tradicionalmente empleado en Colombia. Consiste en despulpar la cereza mecánicamente para eliminar la cáscara y luego fermentar el mucílago remanente en tanques, seguido de un lavado con agua limpia. Finalmente, el café pergamino se seca al sol o mecánicamente. Este método resalta la acidez y la limpieza de la taza, produciendo cafés suaves y aromáticos.
           div(titulo="Beneficio natural")
             p.mb-0.ps-lg-5 Las cerezas completas se extienden al sol sobre patios o camas africanas, sin quitarles la pulpa, hasta alcanzar la humedad deseada. Produce cafés con cuerpo más pesado y notas frutales intensas.
-          div(titulo="Beneficio honey o miel")
+          div(titulo="Beneficio <em>honey</em> o miel")
             p.mb-0.ps-lg-5 Se despulpa la cereza, pero se conserva parte del mucílago durante el secado. A medida que el grano se seca, adquiere tonalidades que van del amarillo al rojo y al negro, según la cantidad de mucílago dejada. Este método ofrece un equilibrio entre la acidez de un lavado y el dulzor y cuerpo de un natural.
 
     .row.justify-content-center
@@ -190,7 +190,7 @@
                 td No
                 td(colspan="2") Cuerpo pesado, dulzor intenso, notas afrutadas y a vino
               tr
-                td Honey
+                td #[em Honey]
                 td Sí
                 td No
                 td(colspan="2") Dulce, acidez equilibrada, cuerpo medio a alto
@@ -235,19 +235,19 @@
             figure
               img(src="@/assets/curso/tema1/21.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Beneficio honey
+            h4.mb-3 Beneficio #[em honey]
             p.mb-0 Popular en Costa Rica y Centroamérica. Versátil, ahorra agua y aporta una dulzura característica muy buscada.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Especies y variedades: arábica, robusta y sus características sensoriales.
+        h3.titulo-con-imagen__texto Especies y variedades: arábica, robusta y sus características sensoriales
 
     img(data-aos="fade-up")(src="@/assets/curso/tema1/22.png", alt="")
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Aunque existen más de 100 especies de coffea, Colombia ha centrado históricamente su producción en una sola: coffea arabica, reconocida por su superior calidad en taza. A diferencia de su competidora, Coffea canephora (robusta), que contiene hasta el doble de cafeína y presenta notas terrosas y amargas, la arábica se caracteriza por su aroma complejo, su acidez equilibrada y su cuerpo suave. Su demanda en el mercado es significativamente mayor.
+          p.mb-0 Aunque existen más de 100 especies de #[em coffea], Colombia ha centrado históricamente su producción en una sola: #[em coffea] arabica, reconocida por su superior calidad en taza. A diferencia de su competidora, #[em Coffea canephora] (robusta), que contiene hasta el doble de cafeína y presenta notas terrosas y amargas, la arábica se caracteriza por su aroma complejo, su acidez equilibrada y su cuerpo suave. Su demanda en el mercado es significativamente mayor.
 
     p.mb-4 Dentro de la especie arábica, el trabajo de mejoramiento genético de Cenicafé ha sido fundamental para dotar a los cafetales colombianos de variedades altamente productivas y resistentes a la roya del cafeto (hemileia vastatrix). Las principales variedades en Colombia son:
 
@@ -263,10 +263,10 @@
           .tarjeta.bg-terciario-t5.p-4(titulo="Caturra")
             h4 Caturra:  
             p Variedad de porte bajo, resultado de una mutación natural del Borbón. Fue clave para la "revolución verde" de la caficultura colombiana por su alta productividad y facilidad de recolección.
-          .tarjeta.bg-terciario-t5.p-4(titulo="Caturra")
+          .tarjeta.bg-terciario-t5.p-4(titulo="Variedad Colombia")
             h4 Variedad Colombia:  
             p Lanzada por Cenicafé en 1982, fue el primer híbrido exitoso creado para combatir la roya del cafeto.
-          .tarjeta.bg-terciario-t5.p-4(titulo="Caturra")
+          .tarjeta.bg-terciario-t5.p-4(titulo="Variedad Castillo")
             h4 Variedad Castillo: 
             p Lanzada en 2005, es una evolución de la variedad Colombia, fruto de más de dos décadas de investigación. Es resistente a la roya y presenta un excelente potencial de calidad en taza, con notas frutales y cítricas, y una acidez balanceada.
 
@@ -274,7 +274,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 2.
-          span Comparación entre Coffea arábica y Coffea #[em canephora] (Robusta).
+          span Comparación entre #[em Coffea] arábica y #[em Coffea canephora] (Robusta).
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -312,7 +312,7 @@
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
         .col-lg-9
           .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (hemileia vastatrix), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (cercospora coffeicola ) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la Specialty Coffee Association, lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
+            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad Castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (#[em hemileia vastatrix]), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (cercospora coffeicola ) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la #[em Specialty Coffee Association], lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
         .col-sm-8.col-lg-3
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema1/24.png", alt="")

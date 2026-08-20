@@ -82,8 +82,8 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8
         p Ya se ha abordado el mecanismo de fresas. En cuanto a la dosificación, se diferencian:
-        p Molinos dosificadores: almacenan el café molido en una cámara y lo liberan mediante una palanca. No son recomendables porque el café molido se oxida rápidamente.
-        p.mb-4.mb-lg-0 Molinos a demanda (on demand / grind-by-weight): muelen directamente la cantidad programada en gramos justo antes de la extracción. Son la mejor opción para preservar la frescura.
+        p #[strong Molinos dosificadores]: almacenan el café molido en una cámara y lo liberan mediante una palanca. No son recomendables porque el café molido se oxida rápidamente.
+        p.mb-4.mb-lg-0 #[strong Molinos a demanda (#[em on demand / grind-by-weight])]: muelen directamente la cantidad programada en gramos justo antes de la extracción. Son la mejor opción para preservar la frescura.
       .col-sm-8.col-lg-4
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema4/4.png", alt="")
@@ -105,7 +105,7 @@
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema4/6.png' alt='')
-            h4.mb-4 Pour over (V60, Chemex, Kalita Wave)
+            h4.mb-4 #[em Pour over] (V60, Chemex, Kalita Wave)
             p Cono, filtros de papel (blanqueados o sin blanquear), tetera de cuello de cisne, jarra de vidrio.
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
@@ -172,12 +172,12 @@
                 td Evita leche quemada que atraiga bacterias
               tr
                 td Máquina de <em>espresso</em>
-                td Backflush con agua
+                td <em>Backflush</em> con agua
                 td Diario (final de jornada)
                 td Limpieza superficial del circuito hidráulico
               tr(style="background-color: #F0F4EE")
                 td Máquina de <em>espresso</em>
-                td Backflush con detergente
+                td <em>Backflush</em> con detergente
                 td Semanal
                 td Elimina aceites y café acumulado
               tr
@@ -221,12 +221,12 @@
             p.mb-0 Retirar la cesta del portafiltro y colocar el disco ciego.
           div(numero="2" titulo="Agregar el detergente")
             p.mb-0 Agregar 1-2 g de detergente especial (cafiza) sobre el disco.
-          div(numero="3" titulo="Iniciar el backflush")
+          div(numero="3" titulo="Iniciar el <em>backflush</em>")
             p.mb-0 Insertar el portafiltro y accionar la bomba durante 10 s.
           div(numero="4" titulo="Repetir el ciclo")
             p.mb-0 Esperar 10 s. Repetir 5 veces.
           div(numero="5" titulo="Enjuague final")
-            p.mb-0 Retirar el portafiltro, enjuagar y realizar 3 ciclos de backflush solo con agua para eliminar residuos de detergente.
+            p.mb-0 Retirar el portafiltro, enjuagar y realizar 3 ciclos de <em>backflush</em> solo con agua para eliminar residuos de detergente.
 
 </template>
 
