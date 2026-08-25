@@ -168,7 +168,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 1.
-          span Historia de la moda y su desarrollo en Colombia
+          span Comparación de los procesos de beneficio
         .tabla-a.color-terciario.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -258,16 +258,12 @@
       .col-lg-9
         TabsA.color-acento-botones
           .tarjeta.bg-terciario-t5.p-4(titulo="Típica y borbón")
-            h4 Típica y borbón: 
             p Son las variedades tradicionales de porte alto, introducidas por los colonizadores. Producen tazas de excelente calidad, pero son susceptibles a la roya y menos productivas. Actualmente representan una porción mínima de los cultivos.
           .tarjeta.bg-terciario-t5.p-4(titulo="Caturra")
-            h4 Caturra:  
             p Variedad de porte bajo, resultado de una mutación natural del Borbón. Fue clave para la "revolución verde" de la caficultura colombiana por su alta productividad y facilidad de recolección.
-          .tarjeta.bg-terciario-t5.p-4(titulo="Variedad Colombia")
-            h4 Variedad Colombia:  
+          .tarjeta.bg-terciario-t5.p-4(titulo="Variedad Colombia") 
             p Lanzada por Cenicafé en 1982, fue el primer híbrido exitoso creado para combatir la roya del cafeto.
           .tarjeta.bg-terciario-t5.p-4(titulo="Variedad Castillo")
-            h4 Variedad Castillo: 
             p Lanzada en 2005, es una evolución de la variedad Colombia, fruto de más de dos décadas de investigación. Es resistente a la roya y presenta un excelente potencial de calidad en taza, con notas frutales y cítricas, y una acidez balanceada.
 
     .row.justify-content-center
@@ -312,7 +308,7 @@
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
         .col-lg-9
           .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad Castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (#[em hemileia vastatrix]), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (cercospora coffeicola ) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la #[em Specialty Coffee Association], lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
+            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad Castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (#[em hemileia vastatrix]), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (cercospora coffeicola ) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la <em>Specialty Coffee Association</em>, lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
         .col-sm-8.col-lg-3
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema1/24.png", alt="")

@@ -308,7 +308,7 @@ export default {
       autores: [
         {
           nombre: 'Yina Paola Castro Zarate',
-          cargo: 'Experto temático',
+          cargo: 'Experta temático',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -323,21 +323,21 @@ export default {
       autores: [
         {
           nombre: 'Andrés Felipe Herrera Roldan',
-          cargo: 'Diseñador de contenidos',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Fabio Fonseca <em>Arguelles</em>',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Alexander Rafael <em>Acosta Bedoya</em>',
+          nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nelson Iván <em>Vera Briceño</em>',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -347,22 +347,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luz Karime <em>Amaya Cabra</em>',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Luz Karime Amaya Cabra',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela <em>Burgos Rueda</em>',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel <em>Ospino Fritz</em>',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié <em>Villafañe</em>',
+          nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

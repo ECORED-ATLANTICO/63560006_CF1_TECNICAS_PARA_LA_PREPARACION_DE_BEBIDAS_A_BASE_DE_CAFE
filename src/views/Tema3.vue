@@ -145,7 +145,7 @@
                 img(src="@/assets/curso/tema3/7.svg", alt="alt")
           .tarjeta.row.align-items-center.justify-content-center.bg-terciario-t5.p-4.py-5(titulo="Ajuste de molienda")
             .col-lg-8
-              p Se puede ajustar fácilmente desde 0 (extremadamente fino) hasta 10 (extremadamente grueso). 
+              p Mediante un anillo roscado que modifica la separación entre discos (desde 0,1 mm hasta 2 mm). 
             .col-4.col-lg-3.col-xl-2
               figure
                 img(src="@/assets/curso/tema3/8.svg", alt="alt")
