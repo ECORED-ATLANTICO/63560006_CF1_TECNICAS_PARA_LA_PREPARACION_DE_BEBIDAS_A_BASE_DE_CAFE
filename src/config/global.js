@@ -308,7 +308,7 @@ export default {
       autores: [
         {
           nombre: 'Yina Paola Castro Zarate',
-          cargo: 'Experta temático',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
