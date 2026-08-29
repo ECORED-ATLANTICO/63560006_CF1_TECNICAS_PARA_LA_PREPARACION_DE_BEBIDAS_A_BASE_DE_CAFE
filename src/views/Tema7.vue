@@ -139,7 +139,7 @@
         .bg-contenido-a5.rounded-4.mb-4.mb-lg-5.p-4
           .row.align-items-center.justify-content-center
             .col-lg-9
-              p Regla de los 15: Para garantizar la máxima calidad sensorial, se recomienda:
+              p Regla de los 15: para garantizar la máxima calidad sensorial, se recomienda:
               p.mb-0.ps-3 15 meses desde la cosecha hasta el consumo (café verde almacenado adecuadamente).
               p.mb-0.ps-3 15 días desde el tostado hasta el consumo.
               p.mb-4.ps-3.mb-lg-0 15 minutos desde la molienda hasta la extracción.

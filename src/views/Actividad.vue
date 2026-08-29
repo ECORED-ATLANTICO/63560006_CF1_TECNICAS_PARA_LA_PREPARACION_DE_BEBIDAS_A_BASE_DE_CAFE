@@ -23,7 +23,7 @@ export default {
         '<b> Objetivo:</b> Evaluar sus conocimientos sobre botánica del café, calidad del agua, molienda, maquinaria, métodos de extracción, cremado de leche, arte <em>latte</em> y conservación de atributos sensoriales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
@@ -91,7 +91,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El beneficio lavado es el método tradicional en colombia, produce tazas limpias y ácidas, como las del huila o nariño.',
+            'Correcto. El beneficio lavado es el método tradicional en Colombia, produce tazas limpias y ácidas, como las del Huila o Nariño.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -521,7 +521,7 @@ export default {
         {
           id: 15,
           texto:
-            'La variedad castillo, desarrollada por cenicafé, es la más sembrada en colombia. ¿Cuál es su principal característica y su potencial de calidad?',
+            'La variedad Castillo, desarrollada por cenicafé, es la más sembrada en Colombia. ¿Cuál es su principal característica y su potencial de calidad?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -629,7 +629,7 @@ export default {
         {
           id: 18,
           texto:
-            'La preinfusión (o bloom) en los métodos de vertido manual (<em>pour over</em>) consiste en:',
+            'La preinfusión (o <em>bloom</em>) en los métodos de vertido manual (<em>pour over</em>) consiste en:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -699,7 +699,7 @@ export default {
         {
           id: 20,
           texto:
-            'La federación nacional de cafeteros (fnc) es una institución clave en colombia. ¿cuál de las siguientes no es una función de la fnc?',
+            'La federación nacional de cafeteros (fnc) es una institución clave en Colombia. ¿cuál de las siguientes no es una función de la fnc?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

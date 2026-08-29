@@ -47,6 +47,11 @@
               h4 Lanza de vapor y agua caliente
               p Permite generar vapor para texturizar la leche y suministrar agua caliente para la preparación de bebidas e infusiones.
 
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
+        h3.titulo-con-imagen__texto Componentes internos de máquina de #[em espresso]
+
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         ImagenInfografica.color-acento-botones.mb-4
@@ -209,7 +214,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Procedimiento de backflush con detergente
+        h3.titulo-con-imagen__texto Procedimiento de <em>backflush</em> con detergente
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-12.col-lg-6

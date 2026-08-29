@@ -209,7 +209,7 @@
           .row.justify-content-center
             .col-lg-10
               h4 Amplio rango de ajuste
-              p.mb-0 Desde 100 micras para <em>espresso</em> turco hasta más de 1.200 micras para <em>cold brew</em>. el ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
+              p.mb-0 Desde 100 micras para <em>espresso</em> turco hasta más de 1.200 micras para <em>cold brew</em>. El ajuste es micrométrico, permitiendo cambios de apenas 5-10 micras. 
           .row.justify-content-center
             .col-lg-10
               h4 Menor generación de estática
@@ -229,8 +229,8 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4 Aplicación recomendada:
-                  p.mb-0 Todo tipo de métodos, especialmente <em>espresso</em> y aeropress. Son indispensables en cafeterías de especialidad, tostadores y laboratorios de control de calidad. 
-                  p Ejemplos Mazzer Kold S, Vease.  
+                  p.mb-0 Todo tipo de métodos, especialmente <em>espresso</em> y <em>aeropress</em>. Son indispensables en cafeterías de especialidad, tostadores y laboratorios de control de calidad. 
+                  p Ejemplos Mazzer Kold S, a continuación.  
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://almanegra.cafe/products/molino-mazzer-kold-s?srsltid=AfmBOoqsxzaKp9lsq0inE0dztWjn7wv4rJe_wx6wnDYp1XY41kbRvyRx" target="_blank")
                     span Enlace web
@@ -352,11 +352,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-1 Recomendación práctica: 
-                  p.mb-0 Utilice siempre una balanza de precisión (0,1 g) para medir el café y el agua. No confíe en medidas volumétricas (cucharas o tazas) porque la densidad del café molido varía con el tamaño de partícula y la humedad.
+                  p.mb-0 Explore el siguiente video y fortalezca sus conocimientos sobre la calibración del molino y los parámetros del espresso. Preste especial atención a los factores que intervienen en la extracción y a las recomendaciones para lograr resultados consistentes en cada preparación:
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.youtube.com/watch?v=8FxCpLcC47c" target="_blank")
-                    span Abrir video
+                    span Video
                     i.fas.fa-file-video
 
 </template>

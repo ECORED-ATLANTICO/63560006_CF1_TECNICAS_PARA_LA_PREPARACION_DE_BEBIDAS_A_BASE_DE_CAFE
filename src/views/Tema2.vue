@@ -172,6 +172,11 @@
                 td Ajusta el agua a perfil óptimo
                 td Necesario equipo adicional
 
+    .titulo-con-imagen.mb-5(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
+        h3.titulo-con-imagen__texto Esquema de tratamiento de agua para cafetería
+
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
@@ -183,35 +188,35 @@
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/9.png' alt='')
             h4.mb-4 Red de agua
-            p #[strong Función]: suministra e agua proveniente de la red.
+            p #[strong Función]: suministra el agua proveniente de la red.
             p.mb-0 #[strong Mantenimiento]: verificar la presión adecuada con la que debe entrar y hacer revisiones periodicas. 
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/10.png' alt='')
             h4.mb-4 Filtro de sedimentos
-            p #[strong Funcion]: retiene partículas sólidas (arena, óxido, sedimentos).
+            p #[strong Función]: retiene partículas sólidas (arena, óxido, sedimentos).
             p.mb-0 #[strong Mantenimiento]: se debe cambiar cada 3-6 meses (o según carga de agua). 
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/11.png' alt='')
             h4.mb-4 Filtro de carbón activado 
-            p #[strong Funcion]: elimina cloro, olores y compuestos orgánicos. 
+            p #[strong Función]: elimina cloro, olores y compuestos orgánicos. 
             p.mb-0 #[strong Mantenimiento]: se debe cambiar cada 6 - 12 meses (o según consumo). 
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/12.png' alt='')
             h4.mb-4 Ablandador (opcional)  
-            p #[strong Funcion]: reduce dureza (calcio y magnesio) para evitar incrustaciones. 
+            p #[strong Función]: reduce dureza (calcio y magnesio) para evitar incrustaciones. 
             p.mb-0 #[strong Mantenimiento]: se debe regenerar con sal cada 2 - 4 semanas. Revisar resinas cada 2 - 3 años.  
           .tarjeta.bg-gris-sistema.p-4
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema2/13.png' alt='')
             h4.mb-4 Máquina de <em>espresso</em> / Tetera  
-            p #[strong Funcion]: preparar café con agua tratada. Protege caldera y termo bloque. 
+            p #[strong Función]: preparar café con agua tratada. Protege caldera y termo bloque. 
             p.mb-0 #[strong Mantenimiento]: realizar limpieza diaria (portafiltro, lanza). #[em Backflush] semanal con detergente.  
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")

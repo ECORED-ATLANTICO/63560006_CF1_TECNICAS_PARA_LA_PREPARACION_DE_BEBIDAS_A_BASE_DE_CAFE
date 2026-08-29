@@ -25,7 +25,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Método espresso: fundamentos, variables y procedimiento 
+        h3.titulo-con-imagen__texto Método <em>espresso</em>: fundamentos, variables y procedimiento 
 
     p.mb-5 El #[em espresso] es la base de la mayoría de las bebidas de cafetería. Se define como una bebida de 25-35 ml obtenida al forzar agua caliente a 9 bares a través de una cama de 7-9 g de café molido fino, compactada, durante 20-30 segundos. La crema (espuma de color avellana) es su sello distintivo. 
 
@@ -109,7 +109,7 @@
                   | Agregar 15 g de café, nivelar.
                 li.mb-0 
                   span.text-bold 3. 
-                  | Preinfusión (bloom): verter 40-50 g de agua en círculos, esperar 30-45 s (burbujeo).
+                  | Preinfusión (<em>bloom</em>): verter 40-50 g de agua en círculos, esperar 30-45 s (burbujeo).
                 li.mb-0 
                   span.text-bold 4. 
                   | Vertido principal: verter lentamente hasta 250 g, manteniendo el nivel de agua. Realizar movimientos en espiral.

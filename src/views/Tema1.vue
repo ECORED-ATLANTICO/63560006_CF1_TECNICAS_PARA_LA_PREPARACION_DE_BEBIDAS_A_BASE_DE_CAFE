@@ -59,8 +59,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Estructura de la semilla de café
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="La estructura de la semilla se compone de cinco partes: 1.La semilla. 2.El mucilago. 3.Pergamino. 4.La piel (película) de plata. 5. Cáscara y pulpa.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="La estructura de la semilla se compone de cinco partes: 1.La semilla. 2.El mucilago. 3.Pergamino. 4.La piel (película) de plata. 5. Cáscara y pulpa.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Diagrama del fruto del café descompuesto en sus diferentes capas para mostrar su estructura anatómica. De izquierda a derecha se observa el fruto completo abierto y, de manera secuencial, la cáscara y pulpa (exocarpio y mesocarpio), el mucílago, el pergamino (endocarpio), la película de plata (tegumento) y la semilla o grano verde. Cada componente está señalado mediante líneas y etiquetas que indican su nombre y, cuando corresponde, su función: protección para la cáscara, pulpa y película de plata, nutrición para el pergamino y la ubicación de la semilla en el centro del fruto.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Diagrama del fruto del café descompuesto en sus diferentes capas para mostrar su estructura anatómica. De izquierda a derecha se observa el fruto completo abierto y, de manera secuencial, la cáscara y pulpa (exocarpio y mesocarpio), el mucílago, el pergamino (endocarpio), la película de plata (tegumento) y la semilla o grano verde. Cada componente está señalado mediante líneas y etiquetas que indican su nombre y, cuando corresponde, su función: protección para la cáscara, pulpa y película de plata, nutrición para el pergamino y la ubicación de la semilla en el centro del fruto.")
         figcaption Nota. SENA, (2026).
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -218,7 +218,7 @@
               img(src="@/assets/curso/tema1/19.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Beneficio lavado
-            p.mb-0 El método insignia de Colombia. Requiere infraestructura y acceso a agua. Produce tazas limpias y ácidas, como las del Huila o Nariño
+            p.mb-0 El método insignia de Colombia. Requiere infraestructura y acceso a agua. Produce tazas limpias y ácidas, como las del Huila o Nariño.
     
       .col-xl-4.col-lg-6.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left").tarjeta
@@ -249,7 +249,7 @@
         div.banner-text
           p.mb-0 Aunque existen más de 100 especies de #[em coffea], Colombia ha centrado históricamente su producción en una sola: #[em coffea] arabica, reconocida por su superior calidad en taza. A diferencia de su competidora, #[em Coffea canephora] (robusta), que contiene hasta el doble de cafeína y presenta notas terrosas y amargas, la arábica se caracteriza por su aroma complejo, su acidez equilibrada y su cuerpo suave. Su demanda en el mercado es significativamente mayor.
 
-    p.mb-4 Dentro de la especie arábica, el trabajo de mejoramiento genético de Cenicafé ha sido fundamental para dotar a los cafetales colombianos de variedades altamente productivas y resistentes a la roya del cafeto (hemileia vastatrix). Las principales variedades en Colombia son:
+    p.mb-4 Dentro de la especie arábica, el trabajo de mejoramiento genético de Cenicafé ha sido fundamental para dotar a los cafetales colombianos de variedades altamente productivas y resistentes a la roya del cafeto (#[em hemileia vastatrix]). Las principales variedades en Colombia son:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-6.col-lg-3
@@ -308,7 +308,7 @@
       .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
         .col-lg-9
           .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad Castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (#[em hemileia vastatrix]), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (cercospora coffeicola ) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la <em>Specialty Coffee Association</em>, lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
+            p.mb-0 El trabajo de mejoramiento genético de Cenicafé no se ha detenido en la variedad Castillo. En 2016 se lanzó la variedad Cenicafé 1, de porte alto y muy buena calidad potencial, que se ha sembrado especialmente en zonas tradicionales donde la roya es un problema recurrente y se requiere un manejo agronómico intensivo. Además de la resistencia a la roya (#[em hemileia vastatrix]), estas variedades presentan tolerancia a otras enfermedades como la mancha de hierro (#[em cercospora coffeicola]) y una arquitectura que facilita el control biológico de la broca. Es fundamental que el barista entienda la relación entre la variedad y la preparación: un café Castillo cultivado a 1.800 metros de altitud en el Huila puede exhibir notas de caramelo, frutos rojos y acidez media-alta, ideal para métodos filtrados (V60 o Chemex), mientras que un Caturra de 1.200 metros en Santander tendrá cuerpo más ligero, acidez baja y notas de chocolate, que se presta muy bien para mezclas de <em>espresso</em> o para bebidas con leche. Los catadores de la FNC han documentado que la variedad Castillo, cuando se cosecha en el punto óptimo y se beneficia adecuadamente, puede alcanzar puntajes superiores a 85 puntos en la escala de la <em>Specialty Coffee Association</em>, lo que la sitúa dentro de la categoría de café especial. Por ello, en cafeterías de especialidad es común que el barista ajuste la molienda y la proporción agua-café según la variedad y el origen. Conocer las características varietales permite al barista tomar decisiones informadas y comunicar al consumidor el origen del café.
         .col-sm-8.col-lg-3
           figure
             img(data-aos="fade-down-right", src="@/assets/curso/tema1/24.png", alt="")

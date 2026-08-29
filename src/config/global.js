@@ -213,7 +213,7 @@ export default {
     {
       termino: 'Roya del cafeto',
       significado:
-        'Enfermedad fúngica (Hemileia vastatrix) que ataca las hojas. Cenicafé ha desarrollado variedades resistentes.',
+        'Enfermedad fúngica (<em>Hemileia vastatrix</em>) que ataca las hojas. Cenicafé ha desarrollado variedades resistentes.',
     },
     {
       termino: 'TDS',

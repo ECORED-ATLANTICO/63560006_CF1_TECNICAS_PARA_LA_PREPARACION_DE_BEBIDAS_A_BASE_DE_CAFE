@@ -10,7 +10,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow-sm.banner-text--yellow.mb-4
-          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (#[em capuchino, latte, flat white]), sino que también permite la creación de arte <em>latte</em>, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
+          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (capuchino, #[em latte, flat white]), sino que también permite la creación de arte <em>latte</em>, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -75,7 +75,7 @@
               figure
                 img.mb-4.mb-lg-0(src="@/assets/curso/tema6/8.png", alt="" data-aos="zoom-in-down")
             .col-lg-8
-              p.mb-4.mb-lg-0 Fase de estiramiento (stretch): se escucha un chirrido suave (aspiración de aire). Dura 3-6 segundos. La leche aumenta ligeramente de volumen.
+              p.mb-4.mb-lg-0 Fase de estiramiento (<em>stretch</em>): se escucha un chirrido suave (aspiración de aire). Dura 3-6 segundos. La leche aumenta ligeramente de volumen.
           .row.justify-content-center.align-items-center
             .col-4.col-sm-3.col-lg-2
               figure
@@ -167,7 +167,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Explore los siguientes videos y descubra cómo realizar los diseños más representativos del arte <em>latte</em>: el corazón y la rosetta. Indague cada etapa del proceso y reconozca las técnicas que permiten lograr un acabado limpio y uniforme: 
+                  p.mb-0 Explore los siguientes videos y descubra cómo realizar los diseños más representativos del arte <em>latte</em>: el corazón y la <em>rosetta</em>. Indague cada etapa del proceso y reconozca las técnicas que permiten lograr un acabado limpio y uniforme: 
                 .col-sm-auto.d-flex.gap-2.flex-column
                   a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.youtube.com/watch?v=TwC6TN9YKU4" target="_blank")
                     span Abrir video
