@@ -17,7 +17,7 @@
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
         .p-3.px-4.bg-terciario-t5.rounded-3.mb-4.mb-lg-0
-          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (<em>pour over</em>) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en <em>espresso</em> como en Aeropress, e incluso en una cafetera moka bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (<em>espresso</em>, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el <em>espresso</em> con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
+          p.mb-0 La elección del método de extracción no es arbitraria; cada método resalta atributos diferentes de un mismo lote de café. Por ejemplo, un café con notas florales y cítricas brillará más en un método de vertido (<em>pour over</em>) que en una prensa francesa, donde el cuerpo pesado y los aceites pueden opacar esas sutilezas. En cambio, un café con notas de chocolate y nueces, de cuerpo medio, puede ser excelente tanto en <em>espresso</em> como en Aeropress, e incluso en una cafetera <em>moka</em> bien calibrada. El tiempo de contacto entre el agua y el café es el factor discriminante fundamental: los métodos de contacto breve (<em>espresso</em>, de 20 a 30 segundos) requieren molienda fina y presión para extraer con eficiencia; los de contacto prolongado (prensa francesa, de cuatro a cinco minutos) requieren molienda gruesa para evitar la sobre extracción de compuestos amargos. Además, la presión aplicada modifica la emulsión de aceites: el <em>espresso</em> con nueve bares de presión crea la crema característica, rica en compuestos hidrofóbicos que aportan sensación en boca. El barista debe dominar no solo los procedimientos, sino los principios físicos y químicos que hay detrás, para poder innovar y adaptarse a distintos cafés y preferencias del consumidor. Esta comprensión también le permitirá ajustar variables como la temperatura y la turbulencia según el método elegido, garantizando así la consistencia en el servicio.
       .col-sm-8.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema5/2.png", alt="")
@@ -175,7 +175,7 @@
                   span.text-bold 5. 
                   | El vacío succiona la bebida filtrada al matraz inferior.
 
-          div(titulo="Cafetera moka (greca): preparación tradicional italiana")
+          div(titulo="Cafetera <em>moka</em> (greca): preparación tradicional italiana")
             .ps-lg-5
               ul.checklist.ms-3
                 li Molienda: media-fina (más gruesa que <em>espresso</em>).
@@ -259,7 +259,7 @@
                 td 4-6 min
                 td(colspan="2") Limpio, complejo
               tr(style="background-color: #F0F4EE")
-                td Moka
+                td <em>Moka</em>
                 td Media-fina
                 td 1:7 - 1:9
                 td (vapor)

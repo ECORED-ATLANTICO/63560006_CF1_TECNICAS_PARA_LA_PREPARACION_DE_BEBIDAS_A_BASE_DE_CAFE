@@ -134,7 +134,7 @@
             .row.justify-content-center.mb-3
               .col-4.col-xl-6
                 img(src='@/assets/curso/tema4/10.png' alt='')
-            h4.mb-4 Cafetera moka (greca)
+            h4.mb-4 Cafetera <em>moka</em> (greca)
             p Cuerpo inferior, cesta, cuerpo superior; generalmente de aluminio.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
