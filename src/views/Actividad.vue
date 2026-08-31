@@ -699,7 +699,7 @@ export default {
         {
           id: 20,
           texto:
-            'La Federación Nacional de Cafeteros (FNC) es una institución clave en Colombia. ¿cuál de las siguientes no es una función de la fnc?',
+            'La Federación Nacional de Cafeteros (FNC) es una institución clave en Colombia. ¿cuál de las siguientes no es una función de la FNC?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
