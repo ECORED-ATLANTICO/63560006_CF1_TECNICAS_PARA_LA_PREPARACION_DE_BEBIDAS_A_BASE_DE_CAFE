@@ -28,7 +28,7 @@ export default {
         {
           id: 1,
           texto:
-            'La especie de café que se cultiva exclusivamente en colombia y es reconocida por su aroma complejo, acidez equilibrada y cuerpo suave es:',
+            'La especie de café que se cultiva exclusivamente en Colombia y es reconocida por su aroma complejo, acidez equilibrada y cuerpo suave es:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -699,7 +699,7 @@ export default {
         {
           id: 20,
           texto:
-            'La federación nacional de cafeteros (fnc) es una institución clave en Colombia. ¿cuál de las siguientes no es una función de la fnc?',
+            'La Federación Nacional de Cafeteros (FNC) es una institución clave en Colombia. ¿cuál de las siguientes no es una función de la fnc?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
