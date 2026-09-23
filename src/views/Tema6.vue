@@ -10,7 +10,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow-sm.banner-text--yellow.mb-4
-          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (capuchino, #[em latte, flat white]), sino que también permite la creación de arte <em>latte</em>, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una micro espuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
+          p.mb-0 El cremado de leche es una de las habilidades más visibles del barista. No solo añade textura y dulzura a las bebidas con leche (capuchino, #[em latte, flat white]), sino que también permite la creación de arte <em>latte</em>, un elemento de valor agregado y de disfrute visual para el cliente. Este capítulo explica la ciencia detrás de la emulsión de la leche, la técnica para lograr una microespuma perfecta, las temperaturas de servicio idóneas y los vertidos básicos para realizar corazones y rosetas. 
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -36,12 +36,12 @@
               p.mb-0 Emulsión de la grasa: la grasa ayuda a dar cuerpo y brillo a la espuma.
 
     .p-4.bg-contenido-a5.rounded-4.mb-4.mb-lg-5
-      p.mb-0.text-center La leche entera (3-4 % grasa) produce la micro espuma más estable y sedosa. La leche descremada produce burbujas grandes y espuma poco duradera. Las leches vegetales requieren emulsionantes añadidos y temperaturas más bajas.
+      p.mb-0.text-center La leche entera (3-4 % grasa) produce la microespuma más estable y sedosa. La leche descremada produce burbujas grandes y espuma poco duradera. Las leches vegetales requieren emulsionantes añadidos y temperaturas más bajas.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.svg")
-        h3.titulo-con-imagen__texto Técnica de cremado con vaporizador: temperatura, textura y micro espuma
+        h3.titulo-con-imagen__texto Técnica de cremado con vaporizador: temperatura, textura y microespuma
 
     p Material: Jarra de acero inoxidable (preferiblemente con pico), termómetro (opcional), lanza de vapor.
     p Procedimiento:

@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Cada método de extracción - <em>espresso</em>, goteo, inmersión, vacío, presión manual- ofrece un perfil sensorial diferente y exige un dominio de variables específicas: molienda, temperatura, proporción agua-café, tiempo de contacto, turbulencia y tipo de filtro. Este capítulo presenta en detalle los procedimientos estandarizados para los métodos más utilizados en Colombia, incluyendo consejos para la resolución de problemas comunes y tablas comparativas que sirve como guía rápida.
+          p.mb-0 Cada método de extracción —<em>espresso</em>, goteo, inmersión, vacío, presión manual— ofrece un perfil sensorial diferente y exige un dominio de variables específicas: molienda, temperatura, proporción agua-café, tiempo de contacto, turbulencia y tipo de filtro. Este capítulo presenta en detalle los procedimientos estandarizados para los métodos más utilizados en Colombia, incluyendo consejos para la resolución de problemas comunes y tablas comparativas que sirven como guía rápida.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
@@ -45,7 +45,7 @@
           div(titulo="Moler y dosar")
             p.mb-0.ps-lg-5 Muela la cantidad exacta (use balanza) en el portafiltro. Nivele la superficie con el dedo o con un distribuidor.
           div(titulo="Apisonar (tampeo)")
-            p.mb-0.ps-lg-5 Aplique presión vertical de unos 10-15 g. La superficie debe quedar plana y nivelada, sin inclinaciones.
+            p.mb-0.ps-lg-5 Aplique presión vertical de unos 10 - 15 kg. La superficie debe quedar plana y nivelada, sin inclinaciones.
           div(titulo="Purgar el grupo")
             p.mb-0.ps-lg-5 Deje correr agua 1-2 segundos antes de insertar el portafiltro para eliminar posos residuales y estabilizar la temperatura.
           div(titulo="Extraer")
@@ -77,7 +77,7 @@
                 td Ajustar molino más grueso
               tr(style="background-color: #F0F4EE")
                 td Chorreo por un solo lado
-                td Tamping inclinado
+                td <em>Tamping</em> inclinado
                 td Practicar presión nivelada
               tr
                 td Crema muy clara y fina

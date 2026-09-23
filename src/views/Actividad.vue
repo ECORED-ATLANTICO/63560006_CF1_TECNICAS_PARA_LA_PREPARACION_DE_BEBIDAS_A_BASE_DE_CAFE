@@ -54,9 +54,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Colombia es reconocido mundialmente por producir exclusivamente café arábico de alta calidad, con perfiles suaves y aromáticos.',
+            'Colombia es reconocido mundialmente por producir exclusivamente café arábico de alta calidad, con perfiles suaves y aromáticos.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
@@ -91,9 +91,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El beneficio lavado es el método tradicional en Colombia, produce tazas limpias y ácidas, como las del Huila o Nariño.',
+            'El beneficio lavado es el método tradicional en Colombia, produce tazas limpias y ácidas, como las del Huila o Nariño.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
@@ -128,9 +128,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El pH debe estar entre 6,5 y 7,5. Los bicarbonatos en exceso actúan como tampón alcalino y neutralizan los ácidos del café, produciendo una taza "plana" o "apagada".',
+            'El pH debe estar entre 6,5 y 7,5. Los bicarbonatos en exceso actúan como tampón alcalino y neutralizan los ácidos del café, produciendo una taza "plana" o "apagada".',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
@@ -154,7 +154,7 @@ export default {
             {
               id: 'c',
               texto:
-                'La molienda debe ser siempre gruesa para evitar la sobre extracción.',
+                'La molienda debe ser siempre gruesa para evitar la sobreextracción.',
               esCorrecta: false,
             },
             {
@@ -165,9 +165,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La regla es inversa: a mayor tiempo de contacto (como en la prensa francesa), más gruesa debe ser la molienda para evitar la sobre extracción de compuestos amargos.',
+            'La regla es inversa: a mayor tiempo de contacto (como en la prensa francesa), más gruesa debe ser la molienda para evitar la sobreextracción de compuestos amargos.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
@@ -198,9 +198,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Los molinos de fresas cónicas son el estándar profesional. Giran a baja velocidad (400-600 rpm), generan poco calor y producen muy pocos finos, lo que garantiza una extracción más limpia.',
+            'Los molinos de fresas cónicas son el estándar profesional. Giran a baja velocidad (400-600 rpm), generan poco calor y producen muy pocos finos, lo que garantiza una extracción más limpia.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
@@ -231,9 +231,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La presión ideal para la máquina de espresso es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
+            'La presión ideal para la máquina de 𝑒𝑠𝑝𝑟𝑒𝑠𝑠𝑜 es de 9 bares y la temperatura del agua debe estar entre 92 y 96 °C.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
@@ -264,9 +264,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El backflush con agua se realiza diariamente, pero el backflush con detergente (para eliminar aceites y residuos acumulados en el grupo) debe hacerse semanalmente.',
+            'El 𝑏𝑎𝑐𝑘𝑓𝑙𝑢𝑠ℎ con agua se realiza diariamente, pero el 𝑏𝑎𝑐𝑘𝑓𝑙𝑢𝑠ℎ con detergente (para eliminar aceites y residuos acumulados en el grupo) debe hacerse semanalmente.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
@@ -301,9 +301,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Ese es el comportamiento ideal, que indica una molienda y compactación adecuadas. El tiempo de extracción debe ser de 20-30 segundos.',
+            'Ese es el comportamiento ideal, que indica una molienda y compactación adecuadas. El tiempo de extracción debe ser de 20-30 segundos.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
@@ -336,9 +336,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Para espresso la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
+            'Para 𝑒𝑠𝑝𝑟𝑒𝑠𝑠𝑜 la relación es de 1:2 a 1:2,5, mucho más concentrada. Para métodos filtrados como el V60, la relación es de 1:15 a 1:17.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
@@ -372,9 +372,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El estiramiento se realiza con la lanza justo debajo de la superficie para aspirar aire (sonido de siseo). La fase de texturizado es la que crea el vórtice.',
+            'El estiramiento se realiza con la lanza justo debajo de la superficie para aspirar aire (sonido de siseo). La fase de texturizado es la que crea el vórtice.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 11,
@@ -409,9 +409,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. Esa es la diferencia fundamental: el corazón se forma vertiendo un chorro firme en el centro, mientras que la roseta requiere un movimiento oscilante de la jarra para crear las hojas.',
+            'Esa es la diferencia fundamental: el corazón se forma vertiendo un chorro firme en el centro, mientras que la roseta requiere un movimiento oscilante de la jarra para crear las hojas.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 12,
@@ -444,7 +444,7 @@ export default {
           mensaje_correcto:
             'La leche entera (3-4 % grasa) produce la microespuma más estable y sedosa. La leche descremada genera burbujas grandes y espuma poco duradera.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
@@ -477,9 +477,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El oxígeno, la humedad, el calor y la luz son los principales enemigos del café tostado. Se debe evitar la nevera, ya que la condensación daña el grano.',
+            'El oxígeno, la humedad, el calor y la luz son los principales enemigos del café tostado. Se debe evitar la nevera, ya que la condensación daña el grano.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 14,
@@ -514,14 +514,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La regla es: 15 meses desde la cosecha (café verde), 15 días desde el tostado, 15 minutos desde la molienda.',
+            'La regla es: 15 meses desde la cosecha (café verde), 15 días desde el tostado, 15 minutos desde la molienda.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 15,
           texto:
-            'La variedad Castillo, desarrollada por cenicafé, es la más sembrada en Colombia. ¿Cuál es su principal característica y su potencial de calidad?',
+            'La variedad Castillo, desarrollada por Cenicafé, es la más sembrada en Colombia. ¿Cuál es su principal característica y su potencial de calidad?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -550,9 +550,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La variedad Castillo, lanzada en 2005, es resistente a la roya y ha demostrado un excelente potencial de calidad en taza (superior a 85 puntos SCA).',
+            'La variedad Castillo, lanzada en 2005, es resistente a la roya y ha demostrado un excelente potencial de calidad en taza (superior a 85 puntos SCA).',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 16,
@@ -585,9 +585,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. El carbón activado mejora el sabor del agua, pero para reducir la dureza se necesita un ablandador o un sistema de ósmosis inversa con remineralización.',
+            'El carbón activado mejora el sabor del agua, pero para reducir la dureza se necesita un ablandador o un sistema de ósmosis inversa con remineralización.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 17,
@@ -622,9 +622,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. el sifón japonés es un método de extracción por vacío; no aplica presión manual, sino que el agua asciende por presión de vapor y desciende por vacío al apagar el calor.',
+            'el sifón japonés es un método de extracción por vacío; no aplica presión manual, sino que el agua asciende por presión de vapor y desciende por vacío al apagar el calor.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 18,
@@ -659,9 +659,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. la preinfusión permite que los gases (CO₂) escapen y que el agua penetre uniformemente en la cama de café, mejorando la extracción.',
+            'la preinfusión permite que los gases (CO₂) escapen y que el agua penetre uniformemente en la cama de café, mejorando la extracción.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 19,
@@ -692,9 +692,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. la inspección de juntas y empaques debe ser mensual, pero el reemplazo se hace cuando se detecta desgaste (fugas), no necesariamente cada mes.',
+            'la inspección de juntas y empaques debe ser mensual, pero el reemplazo se hace cuando se detecta desgaste (fugas), no necesariamente cada mes.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 20,
@@ -725,9 +725,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Correcto. La FNC representa a los productores, administra el fondo nacional del café y promueve el café colombiano, pero no regula los precios internacionales del café.',
+            'La FNC representa a los productores, administra el fondo nacional del café y promueve el café colombiano, pero no regula los precios internacionales del café.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:

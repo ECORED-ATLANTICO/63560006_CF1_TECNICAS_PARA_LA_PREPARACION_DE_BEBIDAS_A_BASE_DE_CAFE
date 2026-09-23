@@ -151,7 +151,7 @@ export default {
     {
       termino: 'Cenicafé',
       significado:
-        'Centro Nacional de Investigaciones de Café, adscrito a la FNC, fundado en 1938.',
+        ' Centro Nacional de Investigaciones de Café, adscrito a la FNC, fundado en 1938.',
     },
     {
       termino: 'Chemex',
@@ -180,7 +180,7 @@ export default {
     {
       termino: 'FNC',
       significado:
-        'Federación Nacional de Cafeteros de Colombia, gremio sin ánimo de lucro fundado en 1927.',
+        ' Federación Nacional de Cafeteros de Colombia, gremio sin ánimo de lucro fundado en 1927.',
     },
     {
       termino: 'Granulometría',
