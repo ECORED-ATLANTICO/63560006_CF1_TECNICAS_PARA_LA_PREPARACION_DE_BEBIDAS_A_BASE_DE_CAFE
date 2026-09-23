@@ -343,20 +343,7 @@
                 td Bebida débil, sin cuerpo 
                 td Muchos sedimentos en la taza, sabor amargo 
 
-    .row.justify-content-center
-      .col-xl-10
-        .tarjeta.color-primario.p-4.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-1.d-none.d-sm-block
-              img(src="@/assets/curso/tema6/15.png")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  p.mb-0 Explore el siguiente video y fortalezca sus conocimientos sobre la calibración del molino y los parámetros del <em>espresso</em>. Preste especial atención a los factores que intervienen en la extracción y a las recomendaciones para lograr resultados consistentes en cada preparación:
-                .col-sm-auto.d-flex.gap-2.flex-column
-                  a.boton.color-acento-contenido.texto-blanco.d-block(href="https://www.youtube.com/watch?v=8FxCpLcC47c" target="_blank")
-                    span Video
-                    i.fas.fa-file-video
+   
 
 </template>
 

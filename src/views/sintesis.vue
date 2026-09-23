@@ -11,7 +11,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Este componente formativo, Fundamentos y métodos de preparación del café, proporciona las bases conceptuales, históricas y técnicas para que el aprendiz desarrolle la capacidad de preparar bebidas de café mediante métodos espresso y alternativos bajo estrictos estándares de calidad sensorial. Su recorrido formativo inicia con la botánica, las variedades colombianas (Castillo, Caturra, Colombia) y los procesos de beneficio (lavado, natural, honey), se adentra en la calidad del agua (TDS, pH, dureza, alcalinidad), la molienda (granulometría, tipos de molinos, calibración), la operación y mantenimiento de maquinaria (máquina de espresso, métodos alternativos), y finaliza con los métodos de extracción, el cremado de leche, el arte latte y los principios de conservación, conformando un sistema de conocimiento integral. Su apropiación es el cimiento sobre el cual se construye la aplicación práctica de la técnica para garantizar los atributos sensoriales como pilar fundamental de la preparación profesional del café")
+          img(src="@/assets/curso/sintesis.svg", alt="Este componente formativo, Fundamentos y métodos de preparación del café, aborda: botánica, beneficio, agua, molienda, equipos, extracción, leche, arte latte y conservación para una preparación de calidad.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

@@ -235,7 +235,7 @@ export default {
       referencia:
         'Cenicafé. (2012). <em>Manual del cafetero colombiano: Investigación y tecnología para la sostenibilidad de la caficultura (Vol. 1)</em>. Centro Nacional de Investigaciones de Café.',
       link:
-        'https://biblioteca.cenicafe.org/bitstream/10778/4321/1/cenbook-0026_08.pdf',
+        'https://publicaciones.cenicafe.org/index.php/libros_manuales/article/view/841',
     },
     {
       referencia:

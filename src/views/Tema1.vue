@@ -59,8 +59,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Estructura de la semilla de café
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Diagrama del fruto del café descompuesto en sus diferentes capas para mostrar su estructura anatómica. De izquierda a derecha se observa el fruto completo abierto y, de manera secuencial, la cáscara y pulpa (exocarpio y mesocarpio), el mucílago, el pergamino (endocarpio), la película de plata (tegumento) y la semilla o grano verde. Cada componente está señalado mediante líneas y etiquetas que indican su nombre y, cuando corresponde, su función: protección para la cáscara, pulpa y película de plata, nutrición para el pergamino y la ubicación de la semilla en el centro del fruto.")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Diagrama del fruto del café descompuesto en sus diferentes capas para mostrar su estructura anatómica. De izquierda a derecha se observa el fruto completo abierto y, de manera secuencial, la cáscara y pulpa (exocarpio y mesocarpio), el mucílago, el pergamino (endocarpio), la película de plata (tegumento) y la semilla o grano verde. Cada componente está señalado mediante líneas y etiquetas que indican su nombre y, cuando corresponde, su función: protección para la cáscara, pulpa y película de plata, nutrición para el pergamino y la ubicación de la semilla en el centro del fruto.")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.png", alt="Diagrama de las capas del fruto del café: cáscara, pulpa, mucílago, pergamino, película de plata y semilla.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.png", alt="Diagrama de las capas del fruto del café: cáscara, pulpa, mucílago, pergamino, película de plata y semilla.")
         figcaption Nota. SENA, (2026).
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
