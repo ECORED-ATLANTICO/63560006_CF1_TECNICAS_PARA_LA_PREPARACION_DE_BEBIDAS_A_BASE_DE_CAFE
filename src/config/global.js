@@ -244,7 +244,7 @@ export default {
     },
     {
       referencia:
-        'Cenicafé. (2021). <em>Estructura del fruto del café</em>. Centro Nacional de Investigaciones de Café.',
+        'Cenicafé. (2021). <em>Estructura y funcionamiento de la planta de café</em>. Centro Nacional de Investigaciones de Café.',
       link:
         'https://biblioteca.cenicafe.org/bitstream/10778/4321/1/cenbook-0026_08.pdf',
     },
