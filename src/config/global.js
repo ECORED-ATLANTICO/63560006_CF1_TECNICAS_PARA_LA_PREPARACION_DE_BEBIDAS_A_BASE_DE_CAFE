@@ -233,55 +233,55 @@ export default {
   referencias: [
     {
       referencia:
-        'Cenicafé. (2012). <em>Manual del cafetero colombiano: Investigación y tecnología para la sostenibilidad de la caficultura (Vol. 1)</em>. Centro Nacional de Investigaciones de Café.',
+        'Cenicafé. (2012). Manual del cafetero colombiano: Investigación y tecnología para la sostenibilidad de la caficultura (Vol. 1). Centro Nacional de Investigaciones de Café.',
       link:
         'https://publicaciones.cenicafe.org/index.php/libros_manuales/article/view/841',
     },
     {
       referencia:
-        'Cenicafé. (2016). <em>Variedad Castillo®: preguntas frecuentes (Avances Técnicos No. 426)</em>. Centro Nacional de Investigaciones de Café.',
+        'Cenicafé. (2016). Variedad Castillo®: preguntas frecuentes (Avances Técnicos No. 426). Centro Nacional de Investigaciones de Café.',
       link: 'https://biblioteca.cenicafe.org/bitstream/10778/410/1/avt0426.pdf',
     },
     {
       referencia:
-        'Cenicafé. (2021). <em>Estructura y funcionamiento de la planta de café</em>. Centro Nacional de Investigaciones de Café.',
+        'Cenicafé. (2021). Estructura y funcionamiento de la planta de café. Centro Nacional de Investigaciones de Café.',
       link:
         'https://biblioteca.cenicafe.org/bitstream/10778/4321/1/cenbook-0026_08.pdf',
     },
     {
       referencia:
-        'Cortina, H. A. (2013). <em>Variedad Castillo®: preguntas frecuentes</em>. Centro Nacional de Investigaciones de Café.',
+        'Cortina, H. A. (2013). Variedad Castillo®: preguntas frecuentes. Centro Nacional de Investigaciones de Café.',
       link: '',
     },
     {
       referencia:
-        'Farfán V., F. F., Baute B., J. E., & García L., J. C. (2008). <em>Efecto de las coberturas arbórea y vegetal muerta sobre la producción de café, en la zona cafetera norte de Colombia</em>. Cenicafé, 59(1), 29-38.',
+        'Farfán V., F. F., Baute B., J. E., & García L., J. C. (2008). Efecto de las coberturas arbórea y vegetal muerta sobre la producción de café, en la zona cafetera norte de Colombia. Cenicafé, 59(1), 29-38.',
       link: '',
     },
     {
       referencia:
-        'Farfán V., F. F., & Solarte P., C. R. (2008). <em>Efecto de la cobertura arbórea y vegetal muerta sobre la producción de café en una localidad de la zona cafetera sur de Colombia</em>. Cenicafé, 59(2), 155-164.',
+        'Farfán V., F. F., & Solarte P., C. R. (2008). Efecto de la cobertura arbórea y vegetal muerta sobre la producción de café en una localidad de la zona cafetera sur de Colombia. Cenicafé, 59(2), 155-164.',
       link: 'https://biblioteca.cenicafe.org/handle/10778/206',
     },
     {
       referencia:
-        'Federación Nacional de Cafeteros de Colombia. (2017). <em>90 años, vivir el café y sembrar el futuro</em>. Federación Nacional de Cafeteros.',
+        'Federación Nacional de Cafeteros de Colombia. (2017). 90 años, vivir el café y sembrar el futuro. Federación Nacional de Cafeteros.',
       link: 'https://biblioteca.cenicafe.org/handle/10778/4277',
     },
     {
       referencia:
-        'Ministerio de la Protección Social. (2007). <em>Decreto 1575 de 2007, por el cual se establece el sistema para la protección y control de la calidad del agua para consumo humano</em>. Diario Oficial No. 46.684.',
+        'Ministerio de la Protección Social. (2007). Decreto 1575 de 2007, por el cual se establece el sistema para la protección y control de la calidad del agua para consumo humano. Diario Oficial No. 46.684.',
       link:
         'https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=30007',
     },
     {
       referencia:
-        'Puerta, G. I. (2015). <em>La inocuidad y calidad del café requiere de agua potable para su beneficio y preparación de la bebida</em>. Centro Nacional de Investigaciones de Café.',
+        'Puerta, G. I. (2015). La inocuidad y calidad del café requiere de agua potable para su beneficio y preparación de la bebida. Centro Nacional de Investigaciones de Café.',
       link: 'https://biblioteca.cenicafe.org/handle/10778/599',
     },
     {
       referencia:
-        'Ramos, M. M., & Castaño, J. J. (2004). <em>Almacenamiento de café tostado y molido en atmósfera de nitrógeno y gas carbónico</em>. Cenicafé, 55(1), 5-15.',
+        'Ramos, M. M., & Castaño, J. J. (2004). Almacenamiento de café tostado y molido en atmósfera de nitrógeno y gas carbónico. Cenicafé, 55(1), 5-15.',
       link:
         'http://biblioteca.cenicafe.org/bitstream/10778/128/1/arc055%2801%29005-015.pdf',
     },
